@@ -1,0 +1,390 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd47c0a210c6824429141b41db895fd0, type: 3}
+  m_Name: Data_WorldObjects
+  m_EditorClassIdentifier: 
+  _data:
+  - _name: Bed
+    _id: {fileID: 11400000, guid: 1d327ba86c44b574b8c4028bed444a5d, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Bed_Double
+    _id: {fileID: 11400000, guid: 50a84afec6cc32246a9f9483a2fcc295, type: 2}
+    _sprite: {fileID: 21300000, guid: 8332f9d40bd6f4c4fb1ea4b438016cef, type: 3}
+  - _name: Bench
+    _id: {fileID: 11400000, guid: 6a6cf152c0b7225418fd3a73281bb242, type: 2}
+    _sprite: {fileID: 21300000, guid: 0f6d5ebc921a9004d950d867b9f1e1c6, type: 3}
+  - _name: Bench_Metal
+    _id: {fileID: 11400000, guid: d1c7a16eb4984c543a569c45a4d3201c, type: 2}
+    _sprite: {fileID: 21300000, guid: 4dcccc27795158d47a7cff192f952215, type: 3}
+  - _name: Benchwoodmetal
+    _id: {fileID: 11400000, guid: c78c74e1a40514419a6524e1b5aafaca, type: 2}
+    _sprite: {fileID: 21300000, guid: 0f6d5ebc921a9004d950d867b9f1e1c6, type: 3}
+  - _name: BigShelves01Group1
+    _id: {fileID: 11400000, guid: 3ee1d6652949445f7aa0e51e10004059, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: BigShelves01Group2
+    _id: {fileID: 11400000, guid: e9c4652c1d4bc4f36aed700ba40a7529, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: BigShelves01Group3
+    _id: {fileID: 11400000, guid: fcdf94c7c094a4a809bfc85911abb7e9, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: BigShelves02Group5
+    _id: {fileID: 11400000, guid: 0d6b714d3210f4132aeffc13ac4fdc6d, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: BigShelves03Group2
+    _id: {fileID: 11400000, guid: e865ef5db30b048a1a857af4d94819d3, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: BigShelves03Group3
+    _id: {fileID: 11400000, guid: 89b6d8face41b43dab9216e5f60f3f35, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: BigShelves03Group4
+    _id: {fileID: 11400000, guid: e080e05a990c34bfd8a01471f954d051, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: BigShelves04Group4
+    _id: {fileID: 11400000, guid: a00107fde715449219c12d057a388160, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Boilers
+    _id: {fileID: 11400000, guid: d3d8c065364114b1f9bdeca5ef533007, type: 2}
+    _sprite: {fileID: 21300000, guid: f01a3d5d0e4f65845afb60d3431e3e56, type: 3}
+  - _name: Box02
+    _id: {fileID: 11400000, guid: ee183676f99264a6b92ff4ab0e4189cd, type: 2}
+    _sprite: {fileID: 21300000, guid: 10a6cca3cb5c5bc4fac2f76baa34cc47, type: 3}
+  - _name: Box03
+    _id: {fileID: 11400000, guid: 98b760339741f4b6fa4318c3b3d8ebec, type: 2}
+    _sprite: {fileID: 21300000, guid: 7bfda52d1e7e55348867c905a46e9af7, type: 3}
+  - _name: BoxBig
+    _id: {fileID: 11400000, guid: 977be16239d19464b9e7bf1ce5cc3c28, type: 2}
+    _sprite: {fileID: 21300000, guid: 1eceb51644b76174794101591a958f95, type: 3}
+  - _name: Boxes
+    _id: {fileID: 11400000, guid: 88715901d51a74543aff47eb3155f41a, type: 2}
+    _sprite: {fileID: 21300000, guid: 4147721b2733be0478024007d8cb065d, type: 3}
+  - _name: Boxes_2
+    _id: {fileID: 11400000, guid: 1eae371550a0742eea1e05cd0d265dac, type: 2}
+    _sprite: {fileID: 21300000, guid: 0a37ce051f66c1a41820c2c2f607106c, type: 3}
+  - _name: Boxes_3
+    _id: {fileID: 11400000, guid: 7cd41f0969e9a4ae6a8c2cfeafc7d53c, type: 2}
+    _sprite: {fileID: 21300000, guid: aa2bfc41a05464847ad0faf1a72fff87, type: 3}
+  - _name: Cabinet2
+    _id: {fileID: 11400000, guid: 235c96f6bee984876b8dcf4cae90f5f9, type: 2}
+    _sprite: {fileID: 21300000, guid: 048fd9771b675e74d88c2d71496b39c6, type: 3}
+  - _name: Cabinet6
+    _id: {fileID: 11400000, guid: 17e2da722b21e4918a1fae87af753703, type: 2}
+    _sprite: {fileID: 21300000, guid: df850b22d67d3fc4789d45a71352906a, type: 3}
+  - _name: Car-2-v6
+    _id: {fileID: 11400000, guid: 96dd183a3e2234033b41e20c639227cb, type: 2}
+    _sprite: {fileID: 21300000, guid: e1e748debd806574db20a4399f6b9c59, type: 3}
+  - _name: Car-3-v6
+    _id: {fileID: 11400000, guid: 8dd967165a88a4666b74e08e3447fec7, type: 2}
+    _sprite: {fileID: 21300000, guid: e1e748debd806574db20a4399f6b9c59, type: 3}
+  - _name: Car-4-v6
+    _id: {fileID: 11400000, guid: 4370154c587b245ff8676373f2fcbfad, type: 2}
+    _sprite: {fileID: 21300000, guid: 781981a948515c34b8555b9c795c5cdd, type: 3}
+  - _name: Car-5-v6
+    _id: {fileID: 11400000, guid: 73bfa1fddc3c4427eb952d185521e376, type: 2}
+    _sprite: {fileID: 21300000, guid: 75edbc953e31167468da0c01065c70ac, type: 3}
+  - _name: Chair4
+    _id: {fileID: 11400000, guid: 18689fdaba1124d7b85b1bd5985f680a, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: ChairSet1
+    _id: {fileID: 11400000, guid: 850d8aa1ae96548beacb34b4ea272e4c, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Column
+    _id: {fileID: 11400000, guid: 35ce6e330c6cb48a79a07bb37aca179b, type: 2}
+    _sprite: {fileID: 21300000, guid: e0f612f85c77c4e4990ea73fd5f0d2ed, type: 3}
+  - _name: ComputarTable
+    _id: {fileID: 11400000, guid: f065721dd537b44fdbcbb5f0eeae5151, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Containerbig01
+    _id: {fileID: 11400000, guid: 05e7e20a96ffb4a9ca01cea42a24674c, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Containerbig02
+    _id: {fileID: 11400000, guid: c15da1c0118c24a48b0404a7947b0265, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Crossbar1
+    _id: {fileID: 11400000, guid: 033bde82c56b1488c9929045285d6a0c, type: 2}
+    _sprite: {fileID: 21300000, guid: cc2c1b9f8ec94d74097ef5fe9638a0e9, type: 3}
+  - _name: Crossbar2
+    _id: {fileID: 11400000, guid: a58c5083f4f534a6bb6bc3a894bfad63, type: 2}
+    _sprite: {fileID: 21300000, guid: 669c7beb0fc733b49bbb2f07671b8f77, type: 3}
+  - _name: Culler
+    _id: {fileID: 11400000, guid: d268b1dfbc41e48a2aa900ec65d5f341, type: 2}
+    _sprite: {fileID: 21300000, guid: c14070201e2c04048b4b2aa3d6cfa262, type: 3}
+  - _name: Door_Metal
+    _id: {fileID: 11400000, guid: 720d05a263ce3264eb9b118fa1f747d4, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Door_Metal1
+    _id: {fileID: 11400000, guid: 82e499789416049ccae0dbb3769a77bb, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Door_Metal2
+    _id: {fileID: 11400000, guid: bd13715cf0ce14bef8414fb2bce7d46b, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Door_Metal3
+    _id: {fileID: 11400000, guid: 231265d91152b4838862d29375b713c6, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Door_Metal4
+    _id: {fileID: 11400000, guid: a41338c0f7815402fa2cfaa3e3f9748e, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Door_Metal5
+    _id: {fileID: 11400000, guid: fbd8e6a073cb24adcb6554ccd445f356, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Drum01
+    _id: {fileID: 11400000, guid: b3146104209d4442cad48be1cc6eee0a, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Drum03
+    _id: {fileID: 11400000, guid: cd5e27897bcc54a2a98930ce50658990, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Drum04
+    _id: {fileID: 11400000, guid: 08400b6c982e448b0bad98c2a4d17270, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Drum05
+    _id: {fileID: 11400000, guid: cff72e545fcc94227a816e4227191eea, type: 2}
+    _sprite: {fileID: 21300000, guid: 78ab2d7d797e46c4986f007d97b5e609, type: 3}
+  - _name: Forklift02
+    _id: {fileID: 11400000, guid: bc1961a0a51f24b258052a258e583343, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Fridge
+    _id: {fileID: 11400000, guid: cd98fab7187c245e084c84f787a3dc98, type: 2}
+    _sprite: {fileID: 21300000, guid: 88e491b0db2ee9e4c9495014e65074b4, type: 3}
+  - _name: GasCylinder1
+    _id: {fileID: 11400000, guid: 394f2883893964d5f8d561660d786185, type: 2}
+    _sprite: {fileID: 21300000, guid: 1b2a1a117031183478921b20af23754d, type: 3}
+  - _name: HandTruck
+    _id: {fileID: 11400000, guid: c0a818f5f15a44d469eaee221e5c7191, type: 2}
+    _sprite: {fileID: 21300000, guid: b38b6566266216f439e776b7cafba8b5, type: 3}
+  - _name: IntenciveCareBed
+    _id: {fileID: 11400000, guid: bc31cf8304fc649d78054e41314af73a, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: IronShelf
+    _id: {fileID: 11400000, guid: 6c49cecece01dcc479b6a332b85c4a47, type: 2}
+    _sprite: {fileID: 21300000, guid: c4c0b17ffcab5c54983ce6e4febbdd17, type: 3}
+  - _name: KitchenLocker1
+    _id: {fileID: 11400000, guid: dca008780af3342adb086bb96931788d, type: 2}
+    _sprite: {fileID: 21300000, guid: 556e864eb944d2a4b9674ab95a0cebcb, type: 3}
+  - _name: KitchenLocker2
+    _id: {fileID: 11400000, guid: cccbb10e6dc7947ed899608271893bf1, type: 2}
+    _sprite: {fileID: 21300000, guid: 44348b15c5c2efe4c98e1a5bd15f0ab7, type: 3}
+  - _name: KitchenLocker3
+    _id: {fileID: 11400000, guid: 900f78524b8204c82b489ff7322ae739, type: 2}
+    _sprite: {fileID: 21300000, guid: 49341d5d163eec143b1e5da28521af3b, type: 3}
+  - _name: KitchenLocker4
+    _id: {fileID: 11400000, guid: 0ddee23b134fa49f8a49528692caf9ce, type: 2}
+    _sprite: {fileID: 21300000, guid: 49341d5d163eec143b1e5da28521af3b, type: 3}
+  - _name: Ladder_01a
+    _id: {fileID: 11400000, guid: d43e9e0bb6f824ce891ae9361c0674a4, type: 2}
+    _sprite: {fileID: 21300000, guid: 5d76ff269ceac1845849412a99d4578c, type: 3}
+  - _name: Ladder_03a
+    _id: {fileID: 11400000, guid: 6d39bc6982e6f40249e8deb261cc7064, type: 2}
+    _sprite: {fileID: 21300000, guid: 5d76ff269ceac1845849412a99d4578c, type: 3}
+  - _name: Locker
+    _id: {fileID: 11400000, guid: 019843a3128ee4c9a8351366df2ba10d, type: 2}
+    _sprite: {fileID: 21300000, guid: dbc6298b0214a284895431aa51eb37fa, type: 3}
+  - _name: Locker_Tutorial
+    _id: {fileID: 11400000, guid: 2eaba1c31b367a241a8c7a51838ab993, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: MedicineCabinet
+    _id: {fileID: 11400000, guid: 63e2128f94411490fb4b66f76d73bcd5, type: 2}
+    _sprite: {fileID: 21300000, guid: 547b6d68cabc7b446abdba0bcbb1acf7, type: 3}
+  - _name: MedicinePipe2
+    _id: {fileID: 11400000, guid: 76e9aa89831434bab8b0c5d9e62a0535, type: 2}
+    _sprite: {fileID: 21300000, guid: 4c9f97e6f717ec5499360cd146d876b8, type: 3}
+  - _name: MedicinePipe3
+    _id: {fileID: 11400000, guid: eb08c0d50959846b58266601af4d6878, type: 2}
+    _sprite: {fileID: 21300000, guid: 291b884040443c44ab8463dbd5b9a9ae, type: 3}
+  - _name: OfficeCommode1
+    _id: {fileID: 11400000, guid: 06287407d0a6f47ac8e930008e9a8eba, type: 2}
+    _sprite: {fileID: 21300000, guid: bc6f7e34004aa374cabbde9d3f34c450, type: 3}
+  - _name: OilCan
+    _id: {fileID: 11400000, guid: ac54d08a5fabb484a8849b11c531f11c, type: 2}
+    _sprite: {fileID: 21300000, guid: caf033d5a1d19ca43b6751416eefad54, type: 3}
+  - _name: Pallet1
+    _id: {fileID: 11400000, guid: aa2818a9436f84c4daad5ce00beda8d5, type: 2}
+    _sprite: {fileID: 21300000, guid: e6453674bdc6a6f4281278d629efee4a, type: 3}
+  - _name: Pear
+    _id: {fileID: 11400000, guid: 1227f8383741a4231b5eda2682ced167, type: 2}
+    _sprite: {fileID: 21300000, guid: f91b9e97104bd5f439fad9b7623319c4, type: 3}
+  - _name: Rack
+    _id: {fileID: 11400000, guid: 28a49f86000e94565840fde8c97b167d, type: 2}
+    _sprite: {fileID: 21300000, guid: f56abf76c4b41f04db99ad653d6b7891, type: 3}
+  - _name: Rack1
+    _id: {fileID: 11400000, guid: 38ef94868e097463298ca7d7fa2b8e24, type: 2}
+    _sprite: {fileID: 21300000, guid: a160104529b638a4a97da4d8d52f169a, type: 3}
+  - _name: Shelves_big01
+    _id: {fileID: 11400000, guid: c4b9fc487b3c3472fa1dd02f97e1f7b2, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Sink1
+    _id: {fileID: 11400000, guid: c6a436ea26a7b4521ae70f1a8297934f, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: SM_Chairs_06
+    _id: {fileID: 11400000, guid: 077e987da31e049cd9a30c41d6c2a87d, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: SM_Locker_03
+    _id: {fileID: 11400000, guid: 8f067de276b82418e8aaadb06d23ab90, type: 2}
+    _sprite: {fileID: 21300000, guid: 02ca63cda4238694388187a99537c81c, type: 3}
+  - _name: SM_Shelf_02
+    _id: {fileID: 11400000, guid: 38c8311307f08415e9ecd801dbd34084, type: 2}
+    _sprite: {fileID: 21300000, guid: 8153042cbe8407b4b997cc58662cfb18, type: 3}
+  - _name: SM_Table_02
+    _id: {fileID: 11400000, guid: aaf73cad9283f4ee08b45141f7bd6ec1, type: 2}
+    _sprite: {fileID: 21300000, guid: 213a84e198973f4419fafd09d20da23e, type: 3}
+  - _name: SM_Table_Kitchen_02
+    _id: {fileID: 11400000, guid: 2728217bab9fe43bebb9678890f0c22a, type: 2}
+    _sprite: {fileID: 21300000, guid: 8153042cbe8407b4b997cc58662cfb18, type: 3}
+  - _name: Stretcher
+    _id: {fileID: 11400000, guid: a4325297f544648cfa796f613b9bb25d, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Table_Metal
+    _id: {fileID: 11400000, guid: 2316021837ed60c4ebf1f39b469a74d4, type: 2}
+    _sprite: {fileID: 21300000, guid: 489c1ceadca01f34e9887a9eb3f16ed6, type: 3}
+  - _name: Table_Wood
+    _id: {fileID: 11400000, guid: 2dac3b0f0bd5b2d44b2bcf8adc338fd5, type: 2}
+    _sprite: {fileID: 21300000, guid: 8153042cbe8407b4b997cc58662cfb18, type: 3}
+  - _name: Tire
+    _id: {fileID: 11400000, guid: ef6fcd70b343f894d96b1b92be6283ff, type: 2}
+    _sprite: {fileID: 21300000, guid: 6aeb3cc7f7fc2d84dbe3d8ddfd4b894c, type: 3}
+  - _name: TrashCan
+    _id: {fileID: 11400000, guid: a905acb47f4414dde9482d19fff7818e, type: 2}
+    _sprite: {fileID: 21300000, guid: 5bf90b12615a13c46bee68c19707af88, type: 3}
+  - _name: Tyre1
+    _id: {fileID: 11400000, guid: a95f7f156d65846838d033a4bb38ba8b, type: 2}
+    _sprite: {fileID: 21300000, guid: 2d256b0e8e8757f4cb8f096e00195c99, type: 3}
+  - _name: Tyre1BigHeap1
+    _id: {fileID: 11400000, guid: 3d9c3baeecc744b95ae8e7e58c876f8c, type: 2}
+    _sprite: {fileID: 21300000, guid: 0045287350aab77409473444b552e698, type: 3}
+  - _name: Tyre1SmallHeap1
+    _id: {fileID: 11400000, guid: 01e6faaee0bb14944b04900628b1cd1b, type: 2}
+    _sprite: {fileID: 21300000, guid: 943cd8b6d16b40e4ab94b07c0a84fc06, type: 3}
+  - _name: WardrobeWood1
+    _id: {fileID: 11400000, guid: 8b8cdc86eba9f4970a0b3747b73eb365, type: 2}
+    _sprite: {fileID: 21300000, guid: 2b4e6dc4731a7d84dbec1b0e97138900, type: 3}
+  - _name: Water03
+    _id: {fileID: 11400000, guid: 46041889c8d9b4c7eab613fabb77a583, type: 2}
+    _sprite: {fileID: 21300000, guid: 96c9bd5189fd1c9479dba6d27a809cbe, type: 3}
+  - _name: Wooden_boards3
+    _id: {fileID: 11400000, guid: 3d3532941eeb64d9aa333c616429ffac, type: 2}
+    _sprite: {fileID: 21300000, guid: 35213be8df6aea94f8e1e67f3ed3a890, type: 3}
+  - _name: Stone01
+    _id: {fileID: 11400000, guid: 92cb5545710c2554e9750944ffed5cdd, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Data_WorldObjects_Doc_boxes1
+    _id: {fileID: 11400000, guid: e49f3498f5eb24ee5a1fd1e89b5076bb, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Data_WorldObjects_Doc_boxes2
+    _id: {fileID: 11400000, guid: 961289c3153aa4dcf88dfb9d10be44cf, type: 2}
+    _sprite: {fileID: 21300000, guid: 572978e59a79bd24399297f67b24b22b, type: 3}
+  - _name: Data_WorldObjects_Doc_boxes3
+    _id: {fileID: 11400000, guid: 82f729f0cdd30460fbd862eb60c500d5, type: 2}
+    _sprite: {fileID: 21300000, guid: a801d0e824994864c8905f42c551c49a, type: 3}
+  - _name: Data_WorldObjects_Doc_boxes4
+    _id: {fileID: 11400000, guid: 7c40a5a9794804621bc459483ccd7dda, type: 2}
+    _sprite: {fileID: 21300000, guid: 892d78b568d2e014fa712d5243a79c1d, type: 3}
+  - _name: Data_WorldObjects_Expeditions_01_crashed_car_1
+    _id: {fileID: 11400000, guid: c1f1a05181aaf4c32b728f7ad2adf1dd, type: 2}
+    _sprite: {fileID: 21300000, guid: 99017ed91a720e447937f3855709c602, type: 3}
+  - _name: Data_WorldObjects_Expeditions_01_crashed_car_2
+    _id: {fileID: 11400000, guid: e40df1d7b01d94d6b830f69769d1fb5c, type: 2}
+    _sprite: {fileID: 21300000, guid: 52451b46504bcea4186b0380af3c6a63, type: 3}
+  - _name: Data_WorldObjects_Expeditions_01_crashed_car_3
+    _id: {fileID: 11400000, guid: 724e42d4c45314f2c8cf14bf8d140f95, type: 2}
+    _sprite: {fileID: 21300000, guid: 23320827623b9504fab4d7b7898f2b62, type: 3}
+  - _name: Data_WorldObjects_Expeditions_01_dumpcar_stack_1
+    _id: {fileID: 11400000, guid: fe135946951024a999dcbf215d862a95, type: 2}
+    _sprite: {fileID: 21300000, guid: dcb9551d588e10f4692696c1b5edaa4f, type: 3}
+  - _name: Data_WorldObjects_Expeditions_01_dumpcar_stack_2
+    _id: {fileID: 11400000, guid: e5bf345f1b5f946e89db0cb5ad26195d, type: 2}
+    _sprite: {fileID: 21300000, guid: 1518db927f346434193094f39007698a, type: 3}
+  - _name: Data_WorldObjects_Expeditions_01_sofa_green
+    _id: {fileID: 11400000, guid: fefc45e8b666c440d9c453f87a563fe8, type: 2}
+    _sprite: {fileID: 21300000, guid: 9a1e08384ff939849b2525a1cf8b8ba9, type: 3}
+  - _name: Data_WorldObjects_Expeditions_01_sofa_red
+    _id: {fileID: 11400000, guid: 2537678acf54b43fcbc6f088f7526045, type: 2}
+    _sprite: {fileID: 21300000, guid: 9c64bc20c83c9d5459f83e020fc5c6d2, type: 3}
+  - _name: Data_WorldObjects_fuel_tank
+    _id: {fileID: 11400000, guid: 2e446d7b53df6488fa7579c73b891c29, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Balancing_Unit
+    _id: {fileID: 11400000, guid: 498dc69edea0743c98c4412b674c9f63, type: 2}
+    _sprite: {fileID: 21300000, guid: 8701ad795d8495349b1a838c3e3253c7, type: 3}
+  - _name: BathWash
+    _id: {fileID: 11400000, guid: a919e2f8b1e6b4963aabcc22dfb76adf, type: 2}
+    _sprite: {fileID: 21300000, guid: d8e45b6ccfb4d7042a5d41380dfd9ed8, type: 3}
+  - _name: Battery
+    _id: {fileID: 11400000, guid: 37d9d8f627d2b4a588bc543970bc71f4, type: 2}
+    _sprite: {fileID: 21300000, guid: ab6d115bf8d34894fb21293428fbddd5, type: 3}
+  - _name: Clamp
+    _id: {fileID: 11400000, guid: b0e39772051c4486b8ad9d7fb61ce2d4, type: 2}
+    _sprite: {fileID: 21300000, guid: 011202f70dff18d41ba1dd27aa03f78b, type: 3}
+  - _name: Closet
+    _id: {fileID: 11400000, guid: cb8907557af7e4bb0b5d0955fab8cc12, type: 2}
+    _sprite: {fileID: 21300000, guid: 85b9f330139babf4a81915ed0f6f161d, type: 3}
+  - _name: Compressor
+    _id: {fileID: 11400000, guid: fc88549bd22a645e5aface9302c780df, type: 2}
+    _sprite: {fileID: 21300000, guid: 13c3084df961aae488ba81ee42d12586, type: 3}
+  - _name: Engine_lift
+    _id: {fileID: 11400000, guid: e5e91cc4ac68646268813545f2e7dd2c, type: 2}
+    _sprite: {fileID: 21300000, guid: 33512b1b90345c3439a44a186a6a4b08, type: 3}
+  - _name: Fire_Box
+    _id: {fileID: 11400000, guid: 05793ff9366e0489eb7d4c2971cd0e72, type: 2}
+    _sprite: {fileID: 21300000, guid: d096c08229b4b6b4a8f83974d98db957, type: 3}
+  - _name: Fire_Extinguisher
+    _id: {fileID: 11400000, guid: 15138637396724291b04eabd3bb8bb00, type: 2}
+    _sprite: {fileID: 21300000, guid: 9481ace531bdab64fb051dfc38d1d83b, type: 3}
+  - _name: Land_Chassis
+    _id: {fileID: 11400000, guid: 8e021213f607348e58f5ca34ac51e370, type: 2}
+    _sprite: {fileID: 21300000, guid: fbb46c68face0f64a8883496014c1217, type: 3}
+  - _name: Land_defender
+    _id: {fileID: 11400000, guid: fbb8e1780e92648c6b8fb9048779a49e, type: 2}
+    _sprite: {fileID: 21300000, guid: 6ee0c6585237a8040868b927a813a24f, type: 3}
+  - _name: Tyre_Shelf
+    _id: {fileID: 11400000, guid: 0672f06605f4244ffbe54e4f042c872a, type: 2}
+    _sprite: {fileID: 21300000, guid: eb1cdcfd94bdd384b88825fae26b990f, type: 3}
+  - _name: Data_WorldObjects_Jars1
+    _id: {fileID: 11400000, guid: 6f6021a8ecf934665af41eefe585ff94, type: 2}
+    _sprite: {fileID: 21300000, guid: 94ea9e3e6a277154ab130722b073e47f, type: 3}
+  - _name: Data_WorldObjects_Jars2
+    _id: {fileID: 11400000, guid: 17c9efb59f3164c5998a1e18687f9158, type: 2}
+    _sprite: {fileID: 21300000, guid: 9c5af418e58a7904fab5e2a2e7a98fa2, type: 3}
+  - _name: Data_WorldObjects_Large_Industrial_Barrel_Pallet
+    _id: {fileID: 11400000, guid: 848e8c952db934d3c8c3f95cd524ece5, type: 2}
+    _sprite: {fileID: 21300000, guid: 55bb2f792236ed245b63ee44d0e3ad36, type: 3}
+  - _name: Data_WorldObjects_Med_Water_Barrel_Pallet
+    _id: {fileID: 11400000, guid: 7c8beddaf9d9649bb932069f0eb7badf, type: 2}
+    _sprite: {fileID: 21300000, guid: d62388200a794b342b16e9c06e73dc1c, type: 3}
+  - _name: Data_WorldObjects_Pallet_Of_Boxes1
+    _id: {fileID: 11400000, guid: cd733e82b7d4b493c8e0824a1e461c5b, type: 2}
+    _sprite: {fileID: 21300000, guid: 53cf2725a44b2f6458c80214779813a1, type: 3}
+  - _name: Data_WorldObjects_Pallet_Of_Boxes2
+    _id: {fileID: 11400000, guid: f0ee68a1128db4503b32324211524ff8, type: 2}
+    _sprite: {fileID: 21300000, guid: 51daed37dbd790c47849569d6b3e850f, type: 3}
+  - _name: Data_WorldObjects_Pallet_Of_Boxes3
+    _id: {fileID: 11400000, guid: 64112ec09f7b543e28ecf8704eee3736, type: 2}
+    _sprite: {fileID: 21300000, guid: 6ea69849c76f83e44880abef1f3de121, type: 3}
+  - _name: Data_WorldObjects_Pallet_Of_Boxes4
+    _id: {fileID: 11400000, guid: 6764ce1f4a6d94976b185352092ab368, type: 2}
+    _sprite: {fileID: 21300000, guid: 03c314eef0881324dbb3a0c8adc9e8a9, type: 3}
+  - _name: Data_WorldObjects_portable_toilet
+    _id: {fileID: 11400000, guid: f534ff8e57cb44bfbbe38c27794c9fb7, type: 2}
+    _sprite: {fileID: 21300000, guid: 9099397488982498796d1d92402f7505, type: 3}
+  - _name: Data_WorldObjects_Rim_seperator
+    _id: {fileID: 11400000, guid: 151f27ed8796442f790bc5f39fb1b38a, type: 2}
+    _sprite: {fileID: 21300000, guid: f026a28d4275c9947aa041ecb01d5442, type: 3}
+  - _name: Data_WorldObjects_Support
+    _id: {fileID: 11400000, guid: 0acf68adc2aea462caf264bb89217fde, type: 2}
+    _sprite: {fileID: 21300000, guid: 4959c537cb244184193c0222347616b1, type: 3}
+  - _name: Data_WorldObjects_Trash1ared
+    _id: {fileID: 11400000, guid: 0957a1ed52d604ef2b81a7efc1ae41af, type: 2}
+    _sprite: {fileID: 21300000, guid: d4a754370f444f34ebe0c4b0c5795e4b, type: 3}
+  - _name: Data_WorldObjects_Trash2b
+    _id: {fileID: 11400000, guid: 617079345e0474abd976682cd06a7f2e, type: 2}
+    _sprite: {fileID: 21300000, guid: ef4672633b46c3c4599b550312627503, type: 3}
+  - _name: Data_WorldObjects_Vacuum_Cleaner
+    _id: {fileID: 11400000, guid: de6d399132b2f471db594128d7e07eaf, type: 2}
+    _sprite: {fileID: 21300000, guid: 408b341813fe11a4190f8365be79dc1e, type: 3}

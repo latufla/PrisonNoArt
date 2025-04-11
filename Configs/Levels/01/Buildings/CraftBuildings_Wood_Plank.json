@@ -1,0 +1,30 @@
+{
+  "CraftDuration": 10.0,
+  "RewardedAdConsumables": [
+    {
+      "Name": "Wood",
+      "Amount": 6
+    }
+  ],
+  "CraftPrice": [
+    {
+      "Name": "Wood",
+      "Amount": 4
+    }
+  ],
+  "CraftResult": {
+    "Name": "Wood_Plank",
+    "Amount": 1
+  },
+  "UnlockDuration": 30.0,
+  "UnlockPrice": [
+    {
+      "Name": "Wood",
+      "Amount": 10
+    },
+    {
+      "Name": "Cardboard",
+      "Amount": 10
+    }
+  ]
+}

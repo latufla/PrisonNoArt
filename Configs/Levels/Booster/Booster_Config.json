@@ -1,0 +1,7 @@
+{
+  "FirstDelay": 180,
+  "StartDelay": 60,
+  "TimeToAvailability": 10,
+  "ShowTime": 300,
+  "ActiveTime": 180
+}

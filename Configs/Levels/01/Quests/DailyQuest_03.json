@@ -1,0 +1,10 @@
+{
+  "Title": "Destroy Objects",
+  "Rewards": [
+    {
+	  "Name": "Wood",
+	  "Amount": 6
+	},
+  ],
+  "MaxProgress": 50
+}

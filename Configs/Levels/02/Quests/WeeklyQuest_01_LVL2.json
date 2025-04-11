@@ -1,0 +1,10 @@
+{
+  "Title": "Daily Login",
+  "Rewards": [
+    {
+	  "Name": "Money",
+	  "Amount": 50
+	}
+  ],
+  "MaxProgress": 5
+}

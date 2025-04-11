@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce3693145cff4ea6992f08901d7688ab, type: 3}
+  m_Name: Data_Sounds
+  m_EditorClassIdentifier: 
+  _mainMusicSoundId: {fileID: 11400000, guid: de573ee4d5ad2454287464f3d8ba45c5, type: 2}
+  _sounds:
+  - _name: Music
+    _id: {fileID: 11400000, guid: de573ee4d5ad2454287464f3d8ba45c5, type: 2}
+    _commonSourceType: 1
+    _loop: 1
+    _volume: 0.6
+    _clips:
+    - {fileID: 8300000, guid: 102ac4b4e42714c21bc49f49f16da510, type: 3}
+  - _name: Unlock
+    _id: {fileID: 11400000, guid: bcd9f83d8739f674bb3eacae4b224a80, type: 2}
+    _commonSourceType: 2
+    _loop: 0
+    _volume: 1
+    _clips:
+    - {fileID: 8300000, guid: 50a9512720ae4f74985a2d6b9c5cefb2, type: 3}
+  - _name: Pickup
+    _id: {fileID: 11400000, guid: d7dad342e64b3aa4b901827181bc61c0, type: 2}
+    _commonSourceType: 2
+    _loop: 0
+    _volume: 1
+    _clips:
+    - {fileID: 8300000, guid: 7f1127bd186c9754cba5fffa92130c04, type: 3}
+  - _name: Steps
+    _id: {fileID: 11400000, guid: 87e6b367e15ebbe4fadc83b342434762, type: 2}
+    _commonSourceType: 0
+    _loop: 1
+    _volume: 1
+    _clips:
+    - {fileID: 8300000, guid: 84ff7e8c395e4424093d82e9a93e7baf, type: 3}
+  - _name: Ui_Screens_Open
+    _id: {fileID: 11400000, guid: 3c9ef99c874c0c7429c4712fc01efe72, type: 2}
+    _commonSourceType: 2
+    _loop: 0
+    _volume: 1
+    _clips:
+    - {fileID: 8300000, guid: c148f838b77af1143aebfb4067ead8bd, type: 3}
+  - _name: Ui_Buttons_Click
+    _id: {fileID: 11400000, guid: 7e1176238223c3246b7c38dccf08cd61, type: 2}
+    _commonSourceType: 2
+    _loop: 0
+    _volume: 1
+    _clips:
+    - {fileID: 8300000, guid: e7c6091c420dca244a6128e85642881a, type: 3}
+  - _name: Death
+    _id: {fileID: 11400000, guid: 6f682d7dfab5f21459f89a5e1fb7fe72, type: 2}
+    _commonSourceType: 2
+    _loop: 0
+    _volume: 1
+    _clips:
+    - {fileID: 8300000, guid: 40a5f1047869bba49b7cb04dcb07be91, type: 3}
+  - _name: Melee_Weapon_Hit
+    _id: {fileID: 11400000, guid: 54c93dceb2cc20a49a0a5a159b078439, type: 2}
+    _commonSourceType: 2
+    _loop: 0
+    _volume: 1
+    _clips:
+    - {fileID: 8300000, guid: 9b771bd2729eb4bdfa1c0b3f68adc365, type: 3}
+  - _name: Range_Weapon_Hit
+    _id: {fileID: 11400000, guid: 4a2fb0f3d623d184286d3cc66e50c70a, type: 2}
+    _commonSourceType: 2
+    _loop: 0
+    _volume: 1
+    _clips:
+    - {fileID: 8300000, guid: c0971a460640b784da44ea531c35aec9, type: 3}

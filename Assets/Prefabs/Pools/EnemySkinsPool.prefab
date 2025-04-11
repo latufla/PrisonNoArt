@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5174512270839452759
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1697965313302241890}
+  - component: {fileID: 2493450764574074919}
+  m_Layer: 0
+  m_Name: EnemySkinsPool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1697965313302241890
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5174512270839452759}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2493450764574074919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5174512270839452759}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8185268801ff4a83929d335aa781aa81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bindings:
+  - _key: {fileID: 11400000, guid: d9487cb87fc8aa3448d564517484ba6c, type: 2}
+    _prefab: {fileID: 8150047320393501771, guid: e7ca1d0c358c8374496cbd6728f92a7a, type: 3}
+  - _key: {fileID: 11400000, guid: 0a8b5625bd38b954b94abe5ebd206eb0, type: 2}
+    _prefab: {fileID: 8150047320393501771, guid: 7b6577618651d884e9cf3f5cf28d1d01, type: 3}
+  - _key: {fileID: 11400000, guid: 4da6e54417f68f641a5cb5afb55f62af, type: 2}
+    _prefab: {fileID: 8150047320393501771, guid: 4cd6d2f68bd65e24186d01b9c5071a58, type: 3}
+  - _key: {fileID: 11400000, guid: 513e0327669211643a77afce5e7b041e, type: 2}
+    _prefab: {fileID: 8150047320393501771, guid: a0f10fe255052094db1db0276db99fcb, type: 3}

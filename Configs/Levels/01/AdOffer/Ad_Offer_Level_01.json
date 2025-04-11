@@ -1,0 +1,385 @@
+{
+  "FirstDelay": 180,
+  "StartDelay": 60,
+  "TimeBeforeShow": 60,
+  "ShowTime": 10,
+  "AdOfferInfo":[
+    {
+      "WeaponLevel": 4,
+        "Rewards": [
+        [
+			{
+              "Name": "Hard_Crystal",
+              "Amount": 3
+            }
+        ],
+		[
+			{
+              "Name": "Money",
+              "Amount": 3
+            }
+        ],
+		[
+			{
+              "Name": "Wood",
+              "Amount": 16
+            },
+			{
+              "Name": "Rubber",
+              "Amount": 12
+            }
+        ]
+      ]
+    },
+    {
+      "WeaponLevel": 5,
+        "Rewards": [
+        [
+            {
+                "Name": "Hard_Crystal",
+                "Amount": 4
+            }
+        ],
+        [
+            {
+                "Name": "Money",
+                "Amount": 16
+            }
+        ],
+        [
+            {
+                "Name": "Metal",
+                "Amount": 10
+            },
+            {
+                "Name": "Rubber",
+                "Amount": 16
+            }
+        ]
+      ]
+    },
+        {
+          "WeaponLevel": 6,
+            "Rewards": [
+              [
+            {
+                  "Name": "Hard_Crystal",
+                  "Amount": 5
+                }
+              ],
+              [
+            {
+                  "Name": "Money",
+                  "Amount": 20
+                }
+              ],
+          [
+            {
+                  "Name": "Wood",
+                  "Amount": 25
+                },
+             {
+                  "Name": "Metal",
+                  "Amount": 15
+                }
+              ]
+            ]
+          },
+          {
+            "WeaponLevel": 7,
+              "Rewards": [
+                [
+              {
+                    "Name": "Hard_Crystal",
+                    "Amount": 5
+                  }
+                ],
+                [
+              {
+                    "Name": "Money",
+                    "Amount": 20
+                  }
+                ],
+            [
+              {
+                    "Name": "Wood",
+                    "Amount": 25
+                  },
+               {
+                    "Name": "Wires",
+                    "Amount": 15
+                  }
+                ]
+              ]
+      },
+      {
+        "WeaponLevel": 8,
+          "Rewards": [
+            [
+          {
+                "Name": "Hard_Crystal",
+                "Amount": 5
+              }
+            ],
+            [
+          {
+                "Name": "Money",
+                "Amount": 20
+              }
+            ],
+        [
+          {
+                "Name": "Wood",
+                "Amount": 30
+              },
+              {
+                    "Name": "Skin",
+                    "Amount": 16
+                  },
+           {
+                "Name": "Wires",
+                "Amount": 16
+              }
+            ]
+          ]
+    },
+    {
+      "WeaponLevel": 9,
+        "Rewards": [
+          [
+        {
+              "Name": "Hard_Crystal",
+              "Amount": 5
+            }
+          ],
+          [
+        {
+              "Name": "Money",
+              "Amount": 20
+            }
+          ],
+      [
+        {
+              "Name": "Wood",
+              "Amount": 30
+            },
+            {
+                  "Name": "Rubber",
+                  "Amount": 25
+                },
+                {
+                      "Name": "Metal",
+                      "Amount": 20
+                    },
+            {
+                  "Name": "Can",
+                  "Amount": 12
+                }
+          ]
+        ]
+  },
+  {
+    "WeaponLevel": 10,
+      "Rewards": [
+        [
+      {
+            "Name": "Hard_Crystal",
+            "Amount": 8
+          }
+        ],
+        [
+      {
+            "Name": "Money",
+            "Amount": 24
+          }
+        ],
+    [
+      {
+            "Name": "Stone",
+            "Amount": 20
+          },
+          {
+                "Name": "Metal",
+                "Amount": 24
+              }
+        ]
+      ]
+},
+{
+  "WeaponLevel": 11,
+    "Rewards": [
+      [
+    {
+          "Name": "Hard_Crystal",
+          "Amount": 8
+        }
+      ],
+      [
+    {
+          "Name": "Money",
+          "Amount": 24
+        }
+      ],
+  [
+    {
+          "Name": "Wood_Plank",
+          "Amount": 3
+        },
+        {
+              "Name": "Wood",
+              "Amount": 32
+            },
+            {
+                  "Name": "Metal",
+                  "Amount": 28
+                },
+        {
+              "Name": "Can",
+              "Amount": 16
+            },
+     {
+          "Name": "Wires",
+          "Amount": 16
+        }
+      ]
+    ]
+},
+{
+  "WeaponLevel": 12,
+    "Rewards": [
+      [
+    {
+          "Name": "Hard_Crystal",
+          "Amount": 8
+        }
+      ],
+      [
+    {
+          "Name": "Money",
+          "Amount": 24
+        }
+      ],
+  [
+    {
+          "Name": "Plastic",
+          "Amount": 16
+        },
+        {
+              "Name": "Metal_Plank",
+              "Amount": 2
+            }
+      ]
+    ]
+},
+{
+  "WeaponLevel": 13,
+    "Rewards": [
+      [
+    {
+          "Name": "Hard_Crystal",
+          "Amount": 10
+        }
+      ],
+      [
+    {
+          "Name": "Money",
+          "Amount": 40
+        }
+      ],
+  [
+    {
+          "Name": "Glass",
+          "Amount": 16
+        },
+        {
+              "Name": "Metal",
+              "Amount": 40
+            }
+      ]
+    ]
+},
+
+{
+  "WeaponLevel": 14,
+    "Rewards": [
+      [
+    {
+          "Name": "Hard_Crystal",
+          "Amount": 10
+        }
+      ],
+      [
+    {
+          "Name": "Money",
+          "Amount": 40
+        }
+      ],
+  [
+    {
+          "Name": "Wood_Plank",
+          "Amount": 3
+        },
+        {
+              "Name": "Plastic",
+              "Amount": 24
+            }
+      ]
+    ]
+},
+
+{
+  "WeaponLevel": 15,
+    "Rewards": [
+      [
+    {
+          "Name": "Hard_Crystal",
+          "Amount": 10
+        }
+      ],
+      [
+    {
+          "Name": "Money",
+          "Amount": 40
+        }
+      ],
+  [
+    {
+          "Name": "Wood",
+          "Amount": 48
+        },
+        {
+              "Name": "Metal_Plank",
+              "Amount": 2
+            }
+      ]
+    ]
+},
+{
+  "WeaponLevel": 16,
+  "Rewards": [
+    [
+      {
+        "Name": "Hard_Crystal",
+        "Amount": 10
+      }
+    ],
+    [
+      {
+        "Name": "Money",
+        "Amount": 40
+      }
+    ],
+    [
+      {
+        "Name": "Metal_Plank",
+        "Amount": 3
+      },
+      {
+        "Name": "Metal",
+        "Amount": 50
+      }
+    ]
+  ]
+}
+  ]
+}

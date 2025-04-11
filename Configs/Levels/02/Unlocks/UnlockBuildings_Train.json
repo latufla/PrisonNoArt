@@ -1,0 +1,17 @@
+{
+  "UnlockDuration": 300.0,
+  "UnlockPrice": [
+    {
+      "Name": "Hardwood_Plank",
+      "Amount": 20
+    },
+    {
+      "Name": "Granite_Plank",
+      "Amount": 15
+    },
+    {
+      "Name": "Key_Train",
+      "Amount": 1
+    }
+  ]
+}

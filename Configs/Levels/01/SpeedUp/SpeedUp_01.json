@@ -1,0 +1,10 @@
+{
+  "RewardedAdSpeedUpTime": 900.0,
+
+  "ConsumablesSpeedUpTimePerAmount": 30.0,
+  "ConsumablesSpeedUpAmount": {
+    "Name": "Hard_Crystal",
+    "Amount": 1,
+    "Chance": 100
+  }
+}

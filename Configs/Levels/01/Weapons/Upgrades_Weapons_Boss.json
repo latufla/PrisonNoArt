@@ -1,0 +1,23 @@
+{
+  "Upgrade": {
+    "Levels": [
+      {
+        "SearchRadius": 7,
+        "AttackRadius": 7,
+        "AttackAngle": 120,
+        "Damage": 25,
+		    "KnockbackPower": 1.0,
+        "KnockbackDuration": 0.5
+      },
+	  {
+        "SearchRadius": 9,
+        "AttackRadius": 9,
+        "AttackWidth": 2,
+        "Damage": 50,
+		    "KnockbackPower": 3.0,
+        "KnockbackDuration": 1.0,
+		"Chance": 25
+      }
+    ]
+  }
+}

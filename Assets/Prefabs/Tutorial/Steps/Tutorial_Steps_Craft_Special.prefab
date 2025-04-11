@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7445867700347823170
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 614018826724788708, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 614018826724788708, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1525.4247
+      objectReference: {fileID: 0}
+    - target: {fileID: 614018826724788708, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 426.68912
+      objectReference: {fileID: 0}
+    - target: {fileID: 614018826724788708, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 232.28804
+      objectReference: {fileID: 0}
+    - target: {fileID: 614018826724788708, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 614018826724788708, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 614018826724788708, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 614018826724788708, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 614018826724788708, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 614018826724788708, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 614018826724788708, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517451350608861386, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: m_Name
+      value: Tutorial_Steps_Craft_Special
+      objectReference: {fileID: 0}
+    - target: {fileID: 4763418875412628371, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: _components.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4763418875412628371, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      propertyPath: _components.Array.data[0]
+      value: 
+      objectReference: {fileID: 728279735516659172}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1517451350608861386, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 728279735516659172}
+  m_SourcePrefab: {fileID: 100100000, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+--- !u!1 &8239925748101758088 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1517451350608861386, guid: fd226f6cafe21884ba6108aeddab94bd, type: 3}
+  m_PrefabInstance: {fileID: 7445867700347823170}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &728279735516659172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8239925748101758088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72724e40c11f3f64f975099b8083d0ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _id: {fileID: 0}
+  _consumableId: {fileID: 11400000, guid: b6b87ebfa4c30f746ad2403f9d9ff382, type: 2}
+  _craftInfo:
+    _taskText: Gather Oil
+    _completeDuration: 0
+    _maxAmountToCollect: 1
+    _arrowPositionY: 5
+    _focusOnStart: 1
+    _focusOnClick: 1
+    _icon: {fileID: 21300000, guid: caf033d5a1d19ca43b6751416eefad54, type: 3}
+    _isClickHerePanelActive: 0
+    _requiredWeaponLevel: 0
+    _requiredItemType: 3
+  _collectInfo:
+    _taskText: Claim Oil
+    _completeDuration: 0
+    _maxAmountToCollect: 0
+    _arrowPositionY: 5
+    _focusOnStart: 0
+    _focusOnClick: 1
+    _icon: {fileID: 21300000, guid: caf033d5a1d19ca43b6751416eefad54, type: 3}
+    _isClickHerePanelActive: 0
+    _requiredWeaponLevel: 0
+    _requiredItemType: 3
+  _unlockWorldId: {fileID: 0}
+  _useExistingAmount: 1

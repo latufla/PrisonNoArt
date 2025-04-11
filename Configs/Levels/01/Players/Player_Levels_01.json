@@ -1,0 +1,8 @@
+{
+  "Health": 100,
+  "WeaponLevel": 1,
+  "RecoverTime": 0.1,
+  "RecoverAmountInPercents": 5.0,
+  "RecoverCooldownDamaged": 2.0,
+  "SearchRadius": 9.0
+}

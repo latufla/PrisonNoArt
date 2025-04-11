@@ -1,0 +1,26 @@
+{
+  "CraftDuration": 10.0,
+  "RewardedAdConsumables": [
+    {
+      "Name": "Hardwood",
+      "Amount": 6
+    }
+  ],
+  "CraftPrice": [
+    {
+      "Name": "Hardwood",
+      "Amount": 4
+    }
+  ],
+  "CraftResult": {
+    "Name": "Hardwood_Plank",
+    "Amount": 1
+  },
+  "UnlockDuration": 900.0,
+  "UnlockPrice": [
+    {
+      "Name": "Hardwood",
+      "Amount": 10
+    }
+  ]
+}

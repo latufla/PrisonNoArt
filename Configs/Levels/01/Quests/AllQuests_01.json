@@ -1,0 +1,87 @@
+{
+  "WeaponLevel": 2,
+  "DailyProgress": [
+    {
+      "Rewards": [
+        {
+          "Name": "Wood",
+          "Amount": 2
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Cardboard",
+          "Amount": 2
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Rubber",
+          "Amount": 3
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Money",
+          "Amount": 5
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Hard_Crystal",
+          "Amount": 3
+        }
+      ]
+    }
+  ],
+  "WeeklyProgress": [
+    {
+      "Rewards": [
+        {
+          "Name": "Money",
+          "Amount": 10
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Hard_Crystal",
+          "Amount": 2
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Money",
+          "Amount": 15
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Money",
+          "Amount": 25
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Hard_Crystal",
+          "Amount": 10
+        }
+      ]
+    }
+  ],
+}

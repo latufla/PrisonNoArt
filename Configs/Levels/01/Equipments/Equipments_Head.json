@@ -1,0 +1,61 @@
+{
+  "Upgrade": {
+    "Levels": [
+      {
+		"Health": 10
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 15
+          },
+          {
+            "Name": "Head_Card",
+            "Amount": 3
+          }
+        ],
+		"Health": 15
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 20
+          },
+          {
+            "Name": "Head_Card",
+            "Amount": 4
+          }
+        ],
+		"Health": 20
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 30
+          },
+          {
+            "Name": "Head_Card",
+            "Amount": 4
+          }
+        ],
+    "Health": 25
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 40
+          },
+          {
+            "Name": "Head_Card",
+            "Amount": 5
+          }
+        ],
+		"Health": 30
+      }
+    ]
+  }
+}

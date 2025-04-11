@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34843001229",
+    "project_id": "post-office-world",
+    "storage_bucket": "post-office-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34843001229:android:533b44fc3f41723e8c7dc4",
+        "android_client_info": {
+          "package_name": "post.office.world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyrdzB38c1mxaNKNuDNUsqvfyvBT7cU2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

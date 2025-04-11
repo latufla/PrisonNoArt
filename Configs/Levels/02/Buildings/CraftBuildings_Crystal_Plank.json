@@ -1,0 +1,30 @@
+{
+  "CraftDuration": 20.0,
+  "RewardedAdConsumables": [
+    {
+      "Name": "Crystal",
+      "Amount": 3
+    }
+  ],
+  "CraftPrice": [
+    {
+      "Name": "Crystal",
+      "Amount": 4
+    }
+  ],
+  "CraftResult": {
+    "Name": "Crystal_Plank",
+    "Amount": 1
+  },
+  "UnlockDuration": 1800.0,
+  "UnlockPrice": [
+    {
+      "Name": "Tempered_Glass",
+      "Amount": 20
+    },
+	{
+      "Name": "Titan_Plank",
+      "Amount": 10
+    }
+  ]
+}

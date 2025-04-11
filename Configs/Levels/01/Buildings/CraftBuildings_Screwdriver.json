@@ -1,0 +1,25 @@
+{
+  "CraftDuration": 3.0,
+  "CraftPrice": [
+    {
+      "Name": "Wood",
+      "Amount": 2
+    }
+  ],
+  "CraftResult": {
+    "Name": "Screwdriver",
+    "Amount": 1
+  },
+  "UnlockDuration": 5.0,
+  "UnlockPrice": [
+    {
+      "Name": "Wood",
+      "Amount": 1
+    },
+    {
+      "Name": "Metal",
+      "Amount": 1
+    }
+  ],
+  "SpeedUpHide": true
+}

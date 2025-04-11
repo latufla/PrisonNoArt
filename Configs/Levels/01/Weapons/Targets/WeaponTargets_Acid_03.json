@@ -1,0 +1,12 @@
+{
+  "Health": 150,
+  "WeaponLevel": 3,
+  "Damage": 8,
+  "AttackDelay": 0.5,
+  "Rewards": [
+    {
+      "Name": "Hard_Crystal",
+      "Amount": 8
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "CraftDuration": 1800.0,
+  "CraftPrice": [
+    {
+      "Name": "Gas",
+      "Amount": 1
+    },
+	{
+      "Name": "Basis_Bomb",
+      "Amount": 1
+    }
+  ],
+  "CraftResult": {
+    "Name": "Bomb",
+    "Amount": 1
+  },
+  "UnlockDuration": 5.0,
+  "UnlockPrice": [
+    {
+      "Name": "Wood",
+      "Amount": 1
+    },
+    {
+      "Name": "Metal",
+      "Amount": 1
+    }
+  ]
+}

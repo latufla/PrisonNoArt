@@ -1,0 +1,19 @@
+{
+  "EnemyIndicatorRadius" : 80,
+  "Health": 300,
+  "WeaponLevel": 1,
+  "Speed": 5.0,
+  "SearchRadius": 8.0,
+  "FollowRadius": 24.0,
+  "FollowStoppageDistance": 3.0,
+  "SearchRadiusMove": true,
+  "RecoverTime": 0.2,
+  "RecoverAmountInPercents": 5.0,
+  "RecoverCooldownDamaged": 5.0,
+  "Rewards": [
+    {
+      "Name": "Money",
+      "Amount": 5
+    }
+  ]
+  }

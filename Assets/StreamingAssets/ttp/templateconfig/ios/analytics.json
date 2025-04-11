@@ -1,0 +1,12 @@
+{
+  "included": true,
+  "firebase": {
+    "googleAppId": "1:622906161807:ios:451517d292961ac5714efa",
+    "apiKey": "AIzaSyBfhKuET7HayI6cWNw2PSRVc2rryEBSW44",
+    "projectId": "cl-fridge-organizing",
+    "clientId": "622906161807-h0pivq07aujk5ul03o7pskt5msqf0nii.apps.googleusercontent.com",
+    "senderId": "622906161807",
+    "storageBucket": "cl-fridge-organizing.appspot.com",
+    "databaseURL": ""
+  }
+}

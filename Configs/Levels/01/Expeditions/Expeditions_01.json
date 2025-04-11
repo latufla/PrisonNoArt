@@ -1,0 +1,807 @@
+{
+  "Consumables": [
+    "Gasoline"
+  ],
+  "SimpleGetInfo": {
+	"Title": "You don’t have enough gas for expeditions",
+    "RewardedAdResult": {
+        "Name": "Gasoline",
+        "Amount": 1
+    },
+    "ConsumablesResult": {
+        "Name": "Gasoline",
+        "Amount": 3
+    },
+    "ConsumablesRequired": {
+        "Name": "Hard_Crystal",
+        "Amount": 30
+    }
+  },
+  "Expeditions": [
+    {
+      "SceneName": "Levels_Expeditions_01",
+      "Name": "Military Base 1",
+      "Price": [
+        {
+          "Name": "Gasoline",
+          "Amount": 1
+        }
+      ],
+      "CombatPower": 150,
+      "Enemies": 3,
+      "EnemiesOnLevel": 6,
+      "Objects": 20,
+      "Chests": [
+        [
+          {
+            "Name": "Wood",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Metal",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 1
+          }
+        ]
+      ],
+      "Pickups": [
+        {
+          "Name": "Key_Level_01_Broken",
+          "Amount": 1
+        }
+      ],
+      "Quest": {
+        "Enemies": 1,
+        "Chests": 3,
+        "Pickups": [
+          {
+            "Name": "Key_Level_01_Broken",
+            "Amount": 1
+          }
+        ]
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_01",
+      "Name": "Military Base 2",
+      "Price": [
+        {
+          "Name": "Gasoline",
+          "Amount": 2
+        }
+      ],
+      "CombatPower": 160,
+      "Enemies": 3,
+      "EnemiesOnLevel": 6,
+      "Objects": 20,
+      "Chests": [
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Body_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Rubber",
+            "Amount": 2
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 3,
+        "Chests": 3
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_01",
+      "Name": "Military Base 3",
+      "Price": [
+        {
+          "Name": "Gasoline",
+          "Amount": 3
+        }
+      ],
+      "CombatPower": 170,
+      "Enemies": 3,
+      "EnemiesOnLevel": 6,
+      "Objects": 20,
+      "Chests": [
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Body_Card",
+            "Amount": 2
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 3,
+        "Chests": 3
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_01",
+      "Name": "Military Base 4",
+      "Price": [
+        {
+          "Name": "Gasoline",
+          "Amount": 4
+        }
+      ],
+      "CombatPower": 175,
+      "Enemies": 4,
+      "EnemiesOnLevel": 6,
+      "Objects": 20,
+      "Chests": [
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Head_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Body_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 2
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 4,
+        "Chests": 4
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_01",
+      "Name": "Military Base 5",
+      "Price": [
+        {
+          "Name": "Gasoline",
+          "Amount": 5
+        }
+      ],
+      "CombatPower": 200,
+      "Enemies": 5,
+      "EnemiesOnLevel": 10,
+      "Objects": 20,
+      "Chests": [
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 3
+          }
+        ],
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Body_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Head_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 2
+          }
+        ]
+      ],
+      "Pickups": [
+        {
+          "Name": "Basis_Bomb",
+          "Amount": 1
+        }
+      ],
+      "Quest": {
+        "Enemies": 5,
+        "Chests": 5,
+        "Pickups": [
+          {
+            "Name": "Basis_Bomb",
+            "Amount": 1
+          }
+        ]
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_01",
+      "Name": "Military Base 6",
+      "Price": [
+        {
+          "Name": "Gasoline",
+          "Amount": 6
+        }
+      ],
+      "CombatPower": 215,
+      "Enemies": 6,
+      "EnemiesOnLevel": 10,
+      "Objects": 25,
+      "Chests": [
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Wood_Plank",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Body_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Head_Card",
+            "Amount": 3
+          }
+        ],
+        [
+          {
+            "Name": "Wood",
+            "Amount": 3
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 6,
+        "Chests": 5
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_01",
+      "Name": "Military Base 7",
+      "Price": [
+        {
+          "Name": "Gasoline",
+          "Amount": 7
+        }
+      ],
+      "CombatPower": 230,
+      "Enemies": 7,
+      "EnemiesOnLevel": 10,
+      "Objects": 25,
+      "Chests": [
+        [
+          {
+            "Name": "Body_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Head_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Wood",
+            "Amount": 3
+          }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Head_Card",
+            "Amount": 1
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 7,
+        "Chests": 5
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_01",
+      "Name": "Military Base 8",
+      "Price": [
+        {
+          "Name": "Gasoline",
+          "Amount": 8
+        }
+      ],
+      "CombatPower": 235,
+      "Enemies": 8,
+      "EnemiesOnLevel": 15,
+      "Objects": 25,
+      "Chests": [
+        [
+          {
+            "Name": "Body_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Body_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Wood_Plank",
+            "Amount": 1
+          }
+        ]
+      ],
+      "Pickups": [
+        {
+          "Name": "Key_Level_02_Broken",
+          "Amount": 1
+        }
+      ],
+      "Quest": {
+        "Enemies": 8,
+        "Chests": 5,
+        "Pickups": [
+          {
+            "Name": "Key_Level_02_Broken",
+            "Amount": 1
+          }
+        ]
+      }
+    },
+    {
+        "SceneName": "Levels_Expeditions_01",
+        "Name": "Military Base 9",
+        "Price": [
+          {
+            "Name": "Gasoline",
+            "Amount": 9
+          }
+        ],
+        "CombatPower": 245,
+        "Enemies": 9,
+        "EnemiesOnLevel": 20,
+        "Objects": 25,
+        "Chests": [
+          [
+            {
+              "Name": "Backpack_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Gun_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Body_Card",
+              "Amount": 2
+            }
+          ],
+          [
+            {
+              "Name": "Metal",
+              "Amount": 3
+            }
+          ],
+          [
+            {
+              "Name": "Stone",
+              "Amount": 3
+            }
+          ]
+        ],
+        "Quest": {
+          "Enemies": 9,
+          "Chests": 5
+        }
+      },
+      {
+        "SceneName": "Levels_Expeditions_01",
+        "Name": "Military Base 10",
+        "Price": [
+          {
+            "Name": "Gasoline",
+            "Amount": 10
+          }
+        ],
+        "CombatPower": 250,
+        "Enemies": 10,
+        "EnemiesOnLevel": 20,
+        "Objects": 25,
+        "Chests": [
+          [
+            {
+              "Name": "Gun_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Wood_Plank",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Head_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Stone",
+              "Amount": 3
+            }
+          ],
+          [
+            {
+              "Name": "Gun_Card",
+              "Amount": 1
+            }
+          ]
+        ],
+        "Quest": {
+          "Enemies": 10,
+          "Chests": 5
+        }
+      },
+      {
+        "SceneName": "Levels_Expeditions_01",
+        "Name": "Military Base 11",
+        "Price": [
+          {
+            "Name": "Gasoline",
+            "Amount": 11
+          }
+        ],
+        "CombatPower": 255,
+        "Enemies": 10,
+        "EnemiesOnLevel": 20,
+        "Objects": 25,
+        "Chests": [
+          [
+            {
+              "Name": "Gun_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Metal",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Head_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Metal",
+              "Amount": 3
+            }
+          ],
+          [
+            {
+              "Name": "Body_Card",
+              "Amount": 1
+            }
+          ]
+        ],
+        "Pickups": [
+          {
+            "Name": "ExitDoor_Component_02",
+            "Amount": 1
+          }
+        ],
+        "Quest": {
+          "Enemies": 10,
+          "Chests": 5,
+          "Pickups": [
+            {
+              "Name": "ExitDoor_Component_02",
+              "Amount": 1
+            }
+          ]
+        }
+      },
+      {
+        "SceneName": "Levels_Expeditions_01",
+        "Name": "Military Base 12",
+        "Price": [
+          {
+            "Name": "Gasoline",
+            "Amount": 12
+          }
+        ],
+        "CombatPower": 260,
+        "Enemies": 10,
+        "EnemiesOnLevel": 20,
+        "Objects": 25,
+        "Chests": [
+          [
+            {
+              "Name": "Rubber",
+              "Amount": 2
+            }
+          ],
+          [
+            {
+              "Name": "Wood_Plank",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Head_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Body_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Metal",
+              "Amount": 2
+            }
+          ]
+        ],
+        "Quest": {
+          "Enemies": 10,
+          "Chests": 5
+        }
+      },
+      {
+        "SceneName": "Levels_Expeditions_01",
+        "Name": "Military Base 13",
+        "Price": [
+          {
+            "Name": "Gasoline",
+            "Amount": 13
+          }
+        ],
+        "CombatPower": 265,
+        "Enemies": 10,
+        "EnemiesOnLevel": 20,
+        "Objects": 25,
+        "Chests": [
+          [
+            {
+              "Name": "Metal",
+              "Amount": 5
+            }
+          ],
+          [
+            {
+              "Name": "Wood_Plank",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Gun_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Head_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Body_Card",
+              "Amount": 3
+            }
+          ]
+        ],
+        "Quest": {
+          "Enemies": 10,
+          "Chests": 5
+        }
+      },
+      {
+        "SceneName": "Levels_Expeditions_01",
+        "Name": "Military Base 14",
+        "Price": [
+          {
+            "Name": "Gasoline",
+            "Amount": 14
+          }
+        ],
+        "CombatPower": 270,
+        "Enemies": 10,
+        "EnemiesOnLevel": 20,
+        "Objects": 25,
+        "Chests": [
+          [
+            {
+              "Name": "Gun_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Head_Card",
+              "Amount": 2
+            }
+          ],
+          [
+            {
+              "Name": "Wood",
+              "Amount": 2
+            }
+          ],
+          [
+            {
+              "Name": "Wood_Plank",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Backpack_Card",
+              "Amount": 1
+            }
+          ]
+        ],
+        "Quest": {
+          "Enemies": 10,
+          "Chests": 5
+        }
+      },
+      {
+        "SceneName": "Levels_Expeditions_01",
+        "Name": "Military Base 15",
+        "Price": [
+          {
+            "Name": "Gasoline",
+            "Amount": 15
+          }
+        ],
+        "CombatPower": 275,
+        "Enemies": 10,
+        "EnemiesOnLevel": 20,
+        "Objects": 25,
+        "Chests": [
+          [
+            {
+              "Name": "Gun_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Wood_Plank",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Head_Card",
+              "Amount": 1
+            }
+          ],
+          [
+            {
+              "Name": "Head_Card",
+              "Amount": 2
+            }
+          ],
+          [
+            {
+              "Name": "Metal_Plank",
+              "Amount": 1
+            }
+          ]
+        ],
+        "Quest": {
+          "Enemies": 10,
+          "Chests": 5
+        }
+      },
+      {
+        "SceneName": "Levels_Expeditions_01_Boss",
+        "Name": "Military Base Boss",
+        "Price": [
+          {
+            "Name": "Gasoline",
+            "Amount": 1
+          }
+        ],
+        "CombatPower": 100,
+        "Enemies": 1,
+        "EnemiesOnLevel": 0,
+        "Pickups": [
+          {
+            "Name": "ExitDoor_Component_03",
+            "Amount": 1
+          }
+        ],
+        "Quest": {
+          "Enemies": 1,
+		  "IsBossLevel": true,
+          "Pickups": [
+            {
+              "Name": "ExitDoor_Component_03",
+              "Amount": 1
+            }
+          ]
+        }
+      }
+    ]
+  }

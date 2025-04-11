@@ -1,0 +1,15 @@
+{
+  "Upgrade": {
+    "Levels": [
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 0
+          }
+        ],
+        "Speed": 12
+      }
+    ]
+  }
+}

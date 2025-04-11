@@ -1,0 +1,17 @@
+{
+  "UnlockDuration": 900.0,
+  "UnlockPrice": [
+    {
+      "Name": "Wood_Plank",
+      "Amount": 20
+    },
+    {
+      "Name": "Metal",
+      "Amount": 15
+    },
+    {
+      "Name": "Engine",
+      "Amount": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "UnlockDuration": 300.0,
+  "UnlockPrice": [
+    {
+      "Name": "Wood",
+      "Amount": 50
+    },
+    {
+      "Name": "Gasoline",
+      "Amount": 1
+    },
+    {
+      "Name": "Stone",
+      "Amount": 30
+    }
+  ]
+}

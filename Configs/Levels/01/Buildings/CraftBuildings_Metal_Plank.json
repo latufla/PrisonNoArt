@@ -1,0 +1,34 @@
+{
+  "CraftDuration": 15.0,
+  "RewardedAdConsumables": [
+    {
+      "Name": "Metal",
+      "Amount": 4
+    }
+  ],
+  "CraftPrice": [
+    {
+      "Name": "Metal",
+      "Amount": 4
+    }
+  ],
+  "CraftResult": {
+    "Name": "Metal_Plank",
+    "Amount": 1
+  },
+  "UnlockDuration": 900.0,
+  "UnlockPrice": [
+    {
+      "Name": "Wood",
+      "Amount": 30
+    },
+    {
+      "Name": "Metal",
+      "Amount": 20
+    },
+    {
+      "Name": "Wires",
+      "Amount": 10
+    }
+  ]
+}

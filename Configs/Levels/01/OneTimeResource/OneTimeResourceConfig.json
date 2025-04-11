@@ -1,0 +1,20 @@
+{
+  "MaxResources" : 5,
+  "MinPercentage" : 90,
+  "MaxFlyups" : 5,
+  "Delay" : 5,
+  "ResourceTypes" :
+  [
+    "Wood",
+    "Cardboard",
+    "Metal",
+    "Wires",
+    "Rubber",
+    "Stone",
+    "Can",
+    "Plastic",
+    "Glass",
+    "Wood_Plank",
+    "Metal_Plank"
+  ]
+}

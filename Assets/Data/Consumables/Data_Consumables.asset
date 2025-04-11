@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa785099b2a549439772325d552fbac5, type: 3}
+  m_Name: Data_Consumables
+  m_EditorClassIdentifier: 
+  _numberVisibleConsumables: 6
+  _data:
+  - _name: Hard_Crystal
+    _id: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+    _initialAmount: 0
+    _title: Crystal
+    _description: 
+    _sprite: {fileID: 21300000, guid: 0bd94f66be66c0d48abd00caf29f859b, type: 3}
+    _consumableType: 1
+  - _name: Money
+    _id: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+    _initialAmount: 0
+    _title: Money
+    _description: 
+    _sprite: {fileID: 21300000, guid: 0d7d4b74fde39bd42bde6ce9ae2d7b14, type: 3}
+    _consumableType: 2
+  - _name: Gasoline
+    _id: {fileID: 11400000, guid: b6b87ebfa4c30f746ad2403f9d9ff382, type: 2}
+    _initialAmount: 0
+    _title: Gasoline
+    _description: 
+    _sprite: {fileID: 21300000, guid: 3ef197c8e1ba34e4da9ef1e52c2eaac2, type: 3}
+    _consumableType: 0
+  - _name: Metal
+    _id: {fileID: 11400000, guid: 712304a6e1b45294b831adc94a53f3c3, type: 2}
+    _initialAmount: 0
+    _title: Metal
+    _description: 
+    _sprite: {fileID: 21300000, guid: eb546bd3a58ab4e37aad393bfacf55d2, type: 3}
+    _consumableType: 0
+  - _name: Rubber
+    _id: {fileID: 11400000, guid: dec13a20413983041b463aab1e232a0a, type: 2}
+    _initialAmount: 0
+    _title: Rubber
+    _description: 
+    _sprite: {fileID: 21300000, guid: 172dc5059e15f428da5ae24c7428a336, type: 3}
+    _consumableType: 0
+  - _name: Textile
+    _id: {fileID: 11400000, guid: 6b28e416eb946d34e9ee2fcd19e0120b, type: 2}
+    _initialAmount: 0
+    _title: Textile
+    _description: 
+    _sprite: {fileID: 21300000, guid: 8d7f0230b8b044c66b01a821a0a82092, type: 3}
+    _consumableType: 0
+  - _name: Wood
+    _id: {fileID: 11400000, guid: f001a09cd5a601b42a6c4394f2130942, type: 2}
+    _initialAmount: 0
+    _title: Wood
+    _description: 
+    _sprite: {fileID: 21300000, guid: 0eccb37c7e27f4d2381570b0bf428775, type: 3}
+    _consumableType: 0
+  - _name: Screwdriver
+    _id: {fileID: 11400000, guid: 8aa345d77b0beed4d9f42b4f46fa86ce, type: 2}
+    _initialAmount: 0
+    _title: Screwdriver
+    _description: 
+    _sprite: {fileID: 21300000, guid: 1eb2aedf353dfb345929b780678948dd, type: 3}
+    _consumableType: 0
+  - _name: Wood_Plank
+    _id: {fileID: 11400000, guid: ed1f02781fbe527479d6de6083d8b91e, type: 2}
+    _initialAmount: 0
+    _title: Wood Planks
+    _description: 
+    _sprite: {fileID: 21300000, guid: 82cf0b45adbc4234db999c5a1b321c42, type: 3}
+    _consumableType: 0
+  - _name: Metal_Plank
+    _id: {fileID: 11400000, guid: 00545c49e6166e84d91652a9b166a97f, type: 2}
+    _initialAmount: 0
+    _title: Metal Planks
+    _description: 
+    _sprite: {fileID: 21300000, guid: a1f74bfae378e4918b8e763feaaf7ea4, type: 3}
+    _consumableType: 0
+  - _name: Plastic
+    _id: {fileID: 11400000, guid: ee510d493357006429f7f603456323d5, type: 2}
+    _initialAmount: 0
+    _title: Plastic
+    _description: 
+    _sprite: {fileID: 21300000, guid: b3df1cc7784516a40a6209a7cbbd94cc, type: 3}
+    _consumableType: 0
+  - _name: Glass
+    _id: {fileID: 11400000, guid: 1c3b7b807446d4bd7b6935d4ab4a92c7, type: 2}
+    _initialAmount: 0
+    _title: Glass
+    _description: 
+    _sprite: {fileID: 21300000, guid: 1f3a06349ad6d4733abd9f31e3e7aaf3, type: 3}
+    _consumableType: 0
+  - _name: Engine
+    _id: {fileID: 11400000, guid: 14cc91e6acaf5194ab67a7e6c1dbdd05, type: 2}
+    _initialAmount: 0
+    _title: Engine
+    _description: 
+    _sprite: {fileID: 21300000, guid: 248d7af95ec454a81b2087fba8748632, type: 3}
+    _consumableType: 0
+  - _name: Stone
+    _id: {fileID: 11400000, guid: 3c8b1916f509312439c238c20e657672, type: 2}
+    _initialAmount: 0
+    _title: Stone
+    _description: 
+    _sprite: {fileID: 21300000, guid: 6fdb4ceedbef543be868262ca0950b28, type: 3}
+    _consumableType: 0
+  - _name: Gas
+    _id: {fileID: 11400000, guid: a8d42eccbee08e2499191c5568aacbde, type: 2}
+    _initialAmount: 0
+    _title: Gas
+    _description: 
+    _sprite: {fileID: 21300000, guid: d15e3a79c55a24e13aa7eeaf5320e8f9, type: 3}
+    _consumableType: 0
+  - _name: Basis_Bomb
+    _id: {fileID: 11400000, guid: f83a8a471155cdc488c8a01b556b93eb, type: 2}
+    _initialAmount: 0
+    _title: Bomb
+    _description: 
+    _sprite: {fileID: 21300000, guid: a4d037f4a6e7e4501bacfb4b3a6654db, type: 3}
+    _consumableType: 0
+  - _name: Bomb
+    _id: {fileID: 11400000, guid: d8cdecf52fcc44e49b963acb7a527101, type: 2}
+    _initialAmount: 0
+    _title: Bomb
+    _description: 
+    _sprite: {fileID: 21300000, guid: 91b2c36ae059e4de19d132866e932298, type: 3}
+    _consumableType: 0
+  - _name: Cardboard
+    _id: {fileID: 11400000, guid: 9572dbdd1bbeb4214aab295bbeb4bc9f, type: 2}
+    _initialAmount: 0
+    _title: Cardboard
+    _description: 
+    _sprite: {fileID: 21300000, guid: c02096e33786e40c9be9a72f8a654c6d, type: 3}
+    _consumableType: 0
+  - _name: Key_Level_01_Broken
+    _id: {fileID: 11400000, guid: 13e9f4740226a0c488092b7dabc1bc0e, type: 2}
+    _initialAmount: 0
+    _title: Key
+    _description: 
+    _sprite: {fileID: 21300000, guid: 059ea8b15ae874617b8b7efc52b713ae, type: 3}
+    _consumableType: 0
+  - _name: Key_Level_01
+    _id: {fileID: 11400000, guid: c0b475cc65167884591b8cb04f7baeda, type: 2}
+    _initialAmount: 0
+    _title: Key
+    _description: 
+    _sprite: {fileID: 21300000, guid: bd7ee8336d6fb3848a9efe2acf39bc9a, type: 3}
+    _consumableType: 0
+  - _name: Key_Level_02_Broken
+    _id: {fileID: 11400000, guid: ba1f5541aa12b6342904d9bcfd33ee2d, type: 2}
+    _initialAmount: 0
+    _title: Key
+    _description: 
+    _sprite: {fileID: 21300000, guid: 059ea8b15ae874617b8b7efc52b713ae, type: 3}
+    _consumableType: 0
+  - _name: Key_Level_02
+    _id: {fileID: 11400000, guid: bbac85312f8a84d47b030dccc857b56f, type: 2}
+    _initialAmount: 0
+    _title: Key
+    _description: 
+    _sprite: {fileID: 21300000, guid: bd7ee8336d6fb3848a9efe2acf39bc9a, type: 3}
+    _consumableType: 0
+  - _name: Key_Level_03
+    _id: {fileID: 11400000, guid: 8a2ca8021a7579a4dab038866b2181e0, type: 2}
+    _initialAmount: 0
+    _title: Key
+    _description: 
+    _sprite: {fileID: 21300000, guid: 7bafa4bb24faa4d578695c02994afd6f, type: 3}
+    _consumableType: 0
+  - _name: ExitDoor_Component_02
+    _id: {fileID: 11400000, guid: 515add275a18aae459237a0d35cd2be4, type: 2}
+    _initialAmount: 0
+    _title: Cartridge
+    _description: 
+    _sprite: {fileID: 21300000, guid: 02d6e82b6a13140f29e842da8fe1fdd3, type: 3}
+    _consumableType: 0
+  - _name: Wires
+    _id: {fileID: 11400000, guid: 153fd7669a61046acaa37c8a7bc2e637, type: 2}
+    _initialAmount: 0
+    _title: Wires
+    _description: 
+    _sprite: {fileID: 21300000, guid: 15bef6818cf544282a6361f7150c84fc, type: 3}
+    _consumableType: 0
+  - _name: ExitDoor_Component_03
+    _id: {fileID: 11400000, guid: eda03c9ed5c53ed48aee31c5bb4832d3, type: 2}
+    _initialAmount: 0
+    _title: Documentation
+    _description: 
+    _sprite: {fileID: 21300000, guid: c36379f6987a84afd910d34219f4c615, type: 3}
+    _consumableType: 0
+  - _name: Map
+    _id: {fileID: 11400000, guid: 14bb307735f75d1478040cd295f40a60, type: 2}
+    _initialAmount: 0
+    _title: Map
+    _description: 
+    _sprite: {fileID: 21300000, guid: eb2f3c8024ce4184c88386af74e8afb1, type: 3}
+    _consumableType: 3
+  - _name: Can
+    _id: {fileID: 11400000, guid: 44433a676756d4b24bbe5fd1bed91d8b, type: 2}
+    _initialAmount: 0
+    _title: Can
+    _description: 
+    _sprite: {fileID: 21300000, guid: 2b09ae96bb819492ba81fc32ba9d4cd1, type: 3}
+    _consumableType: 0
+  - _name: Skin
+    _id: {fileID: 11400000, guid: 1448498259b06b8468be8fd504b0612b, type: 2}
+    _initialAmount: 0
+    _title: Skin
+    _description: 
+    _sprite: {fileID: 21300000, guid: f5177061565cf4952a577bce3576c284, type: 3}
+    _consumableType: 0
+  - _name: Backpack_Card
+    _id: {fileID: 11400000, guid: 453db970c4ab5b942966490f2eddcc75, type: 2}
+    _initialAmount: 0
+    _title: Backpack Card
+    _description: 
+    _sprite: {fileID: 21300000, guid: f0b07893501584c3b909b119c581d49d, type: 3}
+    _consumableType: 4
+  - _name: Body_Card
+    _id: {fileID: 11400000, guid: 6a5548e2d8afb194791318990d7af8b3, type: 2}
+    _initialAmount: 0
+    _title: Body Card
+    _description: 
+    _sprite: {fileID: 21300000, guid: 81873f550e29f401a9f233796af52c91, type: 3}
+    _consumableType: 4
+  - _name: Gun_Card
+    _id: {fileID: 11400000, guid: 5786ecdc53e6bee48bb33c17921dd02b, type: 2}
+    _initialAmount: 0
+    _title: Gun Card
+    _description: 
+    _sprite: {fileID: 21300000, guid: e817b1aa0a2984759b7e3d1d5e3a4145, type: 3}
+    _consumableType: 4
+  - _name: Head_Card
+    _id: {fileID: 11400000, guid: 3def3233736488847bc17e1defb10d02, type: 2}
+    _initialAmount: 0
+    _title: Head Card
+    _description: 
+    _sprite: {fileID: 21300000, guid: eadbb8782b0bc49b6a186c9884507c9e, type: 3}
+    _consumableType: 4

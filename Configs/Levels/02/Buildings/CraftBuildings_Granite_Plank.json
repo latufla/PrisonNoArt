@@ -1,0 +1,30 @@
+{
+  "CraftDuration": 12.0,
+  "RewardedAdConsumables": [
+    {
+      "Name": "Granite",
+      "Amount": 5
+    }
+  ],
+  "CraftPrice": [
+    {
+      "Name": "Granite",
+      "Amount": 4
+    }
+  ],
+  "CraftResult": {
+    "Name": "Granite_Plank",
+    "Amount": 1
+  },
+  "UnlockDuration": 900.0,
+  "UnlockPrice": [
+    {
+      "Name": "Hardwood_Plank",
+      "Amount": 10
+    },
+	{
+      "Name": "Stone2",
+      "Amount": 20
+    }
+  ]
+}

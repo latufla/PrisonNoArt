@@ -1,0 +1,10 @@
+{
+  "Title": "Watch Reward Video",
+  "Rewards": [
+    {
+	  "Name": "Money",
+	  "Amount": 15
+	},
+  ],
+  "MaxProgress": 3
+}

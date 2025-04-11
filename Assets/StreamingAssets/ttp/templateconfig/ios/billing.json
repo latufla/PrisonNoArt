@@ -1,0 +1,47 @@
+{
+  "iaps": [
+    {
+      "id": "prison.some.gems",
+      "iapId": "prison.some.gems",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "prison.handful.gems",
+      "iapId": "prison.handful.gems",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "prison.pile.gems",
+      "iapId": "prison.pile.gems",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "com.prison.survival.stor.somegems",
+      "iapId": "",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "com.prison.survival.story.handfulgems",
+      "iapId": "",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "com.prison.survival.story.pilegems",
+      "iapId": "",
+      "type": "consumable",
+      "noAds": false
+    }
+  ],
+  "deferInit": false,
+  "included": true,
+  "purchaseValidation": {
+    "active": true,
+    "timeoutInterval": 10,
+    "account": null
+  }
+}

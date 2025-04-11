@@ -1,0 +1,39 @@
+{
+  "CraftDuration": 300.0,
+  "CraftPrice": [
+    {
+      "Name": "Wood",
+      "Amount": 0
+    }
+  ],
+  "CraftResult": {
+    "Name": "Electricity",
+    "Amount": 1
+  },
+  "UnlockDuration": 1800.0,
+  "UnlockPrice": [
+    {
+      "Name": "Titan_Plank",
+      "Amount": 10
+    },
+	{
+      "Name": "Granite_Plank",
+      "Amount": 15
+    }
+  ],
+  "SimpleGetInfo": {
+    "Title": "You don’t have enough electricity",
+    "RewardedAdResult": {
+        "Name": "Electricity",
+        "Amount": 1
+    },
+    "ConsumablesResult": {
+        "Name": "Electricity",
+        "Amount": 3
+    },
+    "ConsumablesRequired": {
+        "Name": "Hard_Crystal",
+        "Amount": 30
+    }
+  }
+}

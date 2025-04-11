@@ -1,0 +1,14 @@
+{
+  "Health": 100,
+  "WeaponLevel": 7,
+  "Rewards": [
+    {
+      "Name": "Titan",
+      "Amount": 3
+    },
+    {
+      "Name": "Tempered_Glass",
+      "Amount": 4
+    }
+  ]
+}

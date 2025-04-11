@@ -1,0 +1,19 @@
+{
+  "store": "apple",
+  "gameEngine": "unity",
+  "audienceModeBuildOnly": "non-children",
+  "orientation": "portrait",
+  "geoLocationServer": "ttplugins.ttpsdk.info",
+  "bundleId": "com.prison.survival.story",
+  "testMode": false,
+  "askForTracking": true,
+  "appId": "6479752915",
+  "isAdMob": true,
+  "appBuildConfig": {
+    "admob": {
+      "application": "ca-app-pub-7137699734922870~2032536547"
+    }
+  },
+  "conversionModelType": "hybrid",
+  "conversionEnabled": true
+}

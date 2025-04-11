@@ -1,0 +1,18 @@
+{
+  "Health": 280,
+  "WeaponLevel": 1,
+  "Speed": 4.0,
+  "SearchRadius": 9.0,
+  "FollowRadius": 16.0,
+  "FollowStoppageDistance": 4.0,
+  "SearchRadiusMove": true,
+  "RecoverTime": 0.2,
+  "RecoverAmountInPercents": 5.0,
+  "RecoverCooldownDamaged": 5.0,
+  "Rewards": [
+    {
+      "Name": "Money",
+      "Amount": 2
+    }
+  ]
+  }

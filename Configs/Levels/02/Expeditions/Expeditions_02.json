@@ -1,0 +1,718 @@
+{
+  "Consumables": [
+    "Electricity"
+  ],
+  "SimpleGetInfo": {
+	"Title": "You don’t have enough electricity for expeditions",
+    "RewardedAdResult": {
+        "Name": "Electricity",
+        "Amount": 1
+    },
+    "ConsumablesResult": {
+        "Name": "Electricity",
+        "Amount": 3
+    },
+    "ConsumablesRequired": {
+        "Name": "Hard_Crystal",
+        "Amount": 30
+    }
+  },
+  "Expeditions": [
+    {
+      "SceneName": "Levels_Expeditions_02",
+      "Name": "Cave 1",
+      "Price": [
+        {
+          "Name": "Electricity",
+          "Amount": 1
+        }
+      ],
+      "CombatPower": 150,
+      "Enemies": 3,
+      "EnemiesOnLevel": 50,
+      "Objects": 15,
+      "Chests": [
+        [
+          {
+            "Name": "Hardwood",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Titan",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 2
+          }
+        ]
+      ],
+      "Pickups": [
+        {
+          "Name": "Door_Component_02_01",
+          "Amount": 1
+        }
+      ],
+      "Quest": {
+        "Enemies": 3,
+        "Chests": 3, // Додана кома тут
+        "Pickups": [
+          {
+            "Name": "Door_Component_02_01",
+            "Amount": 1
+          }
+        ]
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_02",
+      "Name": "Cave 2",
+      "Price": [
+        {
+          "Name": "Electricity",
+          "Amount": 2
+        }
+      ],
+      "CombatPower": 170,
+      "Enemies": 4,
+      "EnemiesOnLevel": 50,
+      "Objects": 15,
+      "Chests": [
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Titan",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 1
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 4,
+        "Chests": 3
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_02",
+      "Name": "Cave 3",
+      "Price": [
+        {
+          "Name": "Electricity",
+          "Amount": 3
+        }
+      ],
+      "CombatPower": 180,
+      "Enemies": 5,
+      "EnemiesOnLevel": 50,
+      "Objects": 15,
+      "Chests": [
+        [
+          {
+            "Name": "Legs_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 1
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 5,
+        "Chests": 3 // Забрана зайва кома тут
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_02",
+      "Name": "Cave 4",
+      "Price": [
+        {
+          "Name": "Electricity",
+          "Amount": 4
+        }
+      ],
+      "CombatPower": 190,
+      "Enemies": 6,
+      "EnemiesOnLevel": 50,
+      "Objects": 15,
+      "Chests": [
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Legs_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 2
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 6,
+        "Chests": 3
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_02",
+      "Name": "Cave 5",
+      "Price": [
+        {
+          "Name": "Electricity",
+          "Amount": 5
+        }
+      ],
+      "CombatPower": 180,
+      "Enemies": 7,
+      "EnemiesOnLevel": 50,
+      "Objects": 15,
+      "Chests": [
+        [
+          {
+            "Name": "Titan_Plank",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 2
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 7,
+        "Chests": 3,
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_02",
+      "Name": "Cave 6",
+      "Price": [
+        {
+          "Name": "Electricity",
+          "Amount": 6
+        }
+      ],
+      "CombatPower": 180,
+      "Enemies": 8,
+      "EnemiesOnLevel": 50,
+      "Objects": 15,
+      "Chests": [
+        [
+          {
+            "Name": "Legs_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 2
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 8,
+        "Chests": 3,
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_02",
+      "Name": "Cave 7",
+      "Price": [
+        {
+          "Name": "Electricity",
+          "Amount": 7
+        }
+      ],
+      "CombatPower": 210,
+      "Enemies": 9,
+      "EnemiesOnLevel": 50,
+      "Objects": 15,
+      "Chests": [
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Legs_Card",
+            "Amount": 1
+          }
+        ],
+        [
+        {
+          "Name": "Titan_Plank",
+          "Amount": 1
+        }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 1
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 9,
+        "Chests": 4
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_02",
+      "Name": "Cave 8",
+      "Price": [
+        {
+          "Name": "Electricity",
+          "Amount": 8
+        }
+      ],
+      "CombatPower": 220,
+      "Enemies": 10,
+      "EnemiesOnLevel": 50,
+      "Objects": 15,
+      "Chests": [
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Legs_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Legs_Card",
+            "Amount": 1
+          }
+        ],
+        [
+        {
+          "Name": "Titan_Plank",
+          "Amount": 2
+        }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 1
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 10,
+        "Chests": 5
+      }
+    },
+    {
+  "SceneName": "Levels_Expeditions_02",
+  "Name": "Cave 9",
+  "Price": [
+    {
+      "Name": "Electricity",
+      "Amount": 9
+    }
+  ],
+  "CombatPower": 230,
+  "Enemies": 10,
+  "EnemiesOnLevel": 50,
+  "Objects": 15,
+  "Chests": [
+    [
+      {
+        "Name": "Gun_Card",
+        "Amount": 1
+      }
+    ],
+    [
+      {
+        "Name": "Legs_Card",
+        "Amount": 1
+      }
+    ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 1
+      }
+    ],
+    [
+    {
+      "Name": "Hardwood",
+      "Amount": 1
+    }
+    ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 1
+      }
+    ]
+  ],
+  "Quest": {
+    "Enemies": 10,
+    "Chests": 5
+  }
+},
+{
+  "SceneName": "Levels_Expeditions_02",
+  "Name": "Cave 10",
+  "Price": [
+    {
+      "Name": "Electricity",
+      "Amount": 10
+    }
+  ],
+  "CombatPower": 235,
+  "Enemies": 10,
+  "EnemiesOnLevel": 50,
+  "Objects": 15,
+  "Chests": [
+    [
+      {
+        "Name": "Gun_Card",
+        "Amount": 1
+      }
+    ],
+    [
+      {
+        "Name": "Legs_Card",
+        "Amount": 1
+      }
+    ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 1
+      }
+    ],
+    [
+    {
+      "Name": "Hardwood",
+      "Amount": 1
+    }
+    ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 1
+      }
+    ]
+  ],
+  "Quest": {
+    "Enemies": 9,
+    "Chests": 5
+  }
+},
+{
+  "SceneName": "Levels_Expeditions_02",
+  "Name": "Cave 11",
+  "Price": [
+    {
+      "Name": "Electricity",
+      "Amount": 11
+    }
+  ],
+  "CombatPower": 240,
+  "Enemies": 10,
+  "EnemiesOnLevel": 50,
+  "Objects": 15,
+  "Chests": [
+    [
+      {
+        "Name": "Granite",
+        "Amount": 1
+      }
+    ],
+    [
+      {
+        "Name": "Legs_Card",
+        "Amount": 1
+      }
+    ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 1
+      }
+    ],
+    [
+    {
+      "Name": "Hardwood",
+      "Amount": 1
+    }
+  ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 1
+      }
+    ]
+  ],
+  "Quest": {
+    "Enemies": 10,
+    "Chests": 5
+  }
+},
+{
+  "SceneName": "Levels_Expeditions_02",
+  "Name": "Cave 12",
+  "Price": [
+    {
+      "Name": "Electricity",
+      "Amount": 12
+    }
+  ],
+  "CombatPower": 245,
+  "Enemies": 10,
+  "EnemiesOnLevel": 50,
+  "Objects": 15,
+  "Chests": [
+    [
+      {
+        "Name": "Gun_Card",
+        "Amount": 1
+      }
+    ],
+    [
+      {
+        "Name": "Legs_Card",
+        "Amount": 1
+      }
+    ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 1
+      }
+    ],
+    [
+    {
+      "Name": "Hardwood",
+      "Amount": 1
+    }
+    ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 1
+      }
+    ]
+  ],
+  "Quest": {
+    "Enemies": 10,
+    "Chests": 5
+  }
+},
+{
+  "SceneName": "Levels_Expeditions_02",
+  "Name": "Cave 13",
+  "Price": [
+    {
+      "Name": "Electricity",
+      "Amount": 13
+    }
+  ],
+  "CombatPower": 250,
+  "Enemies": 10,
+  "EnemiesOnLevel": 50,
+  "Objects": 15,
+  "Chests": [
+    [
+      {
+        "Name": "Gun_Card",
+        "Amount": 1
+      }
+    ],
+    [
+      {
+        "Name": "Legs_Card",
+        "Amount": 1
+      }
+    ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 1
+      }
+    ],
+    [
+    {
+      "Name": "Hardwood",
+      "Amount": 1
+    }
+    ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 1
+      }
+    ]
+  ],
+  "Quest": {
+    "Enemies": 10,
+    "Chests": 5
+  }
+},
+{
+  "SceneName": "Levels_Expeditions_02",
+  "Name": "Cave 14",
+  "Price": [
+    {
+      "Name": "Electricity",
+      "Amount": 14
+    }
+  ],
+  "CombatPower": 255,
+  "Enemies": 10,
+  "EnemiesOnLevel": 50,
+  "Objects": 15,
+  "Chests": [
+    [
+      {
+        "Name": "Gun_Card",
+        "Amount": 2
+      }
+    ],
+    [
+      {
+        "Name": "Legs_Card",
+        "Amount": 3
+      }
+    ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 2
+      }
+    ],
+    [
+    {
+      "Name": "Hardwood",
+      "Amount": 1
+    }
+      ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 2
+      }
+    ]
+  ],
+  "Quest": {
+    "Enemies": 10,
+    "Chests": 5
+  }
+},
+{
+  "SceneName": "Levels_Expeditions_02",
+  "Name": "Cave 15",
+  "Price": [
+    {
+      "Name": "Electricity",
+      "Amount": 15
+    }
+  ],
+  "CombatPower": 260,
+  "Enemies": 10,
+  "EnemiesOnLevel": 50,
+  "Objects": 15,
+  "Chests": [
+    [
+      {
+        "Name": "Hardwood",
+        "Amount": 2
+      }
+    ],
+    [
+      {
+        "Name": "Legs_Card",
+        "Amount": 2
+      }
+    ],
+    [
+      {
+        "Name": "Backpack_Card",
+        "Amount": 2
+      }
+    ],
+    [
+      {
+        "Name": "Granite",
+        "Amount": 2
+      }
+    ],
+    [
+      {
+        "Name": "Gun_Card",
+        "Amount": 1
+      }
+    ]
+  ],
+  "Pickups": [
+    {
+      "Name": "BoatMotor_Component_02_01",
+      "Amount": 1
+    }
+  ],
+  "Quest": {
+    "Enemies": 10,
+    "Chests": 5,
+    "Pickups": [
+      {
+        "Name": "BoatMotor_Component_02_01",
+        "Amount": 1
+      }
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,109 @@
+{
+  "Upgrade": {
+    "Levels": [
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 0
+          }
+        ],
+        "SearchRadius": 4.6,
+        "AttackRadius": 4.6,
+        "AttackAngle": 90,
+        "Damage": 15
+      },
+      {
+        "Price": [
+          {
+            "Name": "Hardwood",
+            "Amount": 1
+          }
+        ],
+        "SearchRadius": 4.6,
+        "AttackRadius": 4.6,
+        "AttackAngle": 90,
+        "Duration": 3,
+        "Damage": 15
+      },
+      {
+        "Price": [
+          {
+            "Name": "Hardwood",
+            "Amount": 12
+          }
+        ],
+        "SearchRadius": 4.6,
+        "AttackRadius": 4.6,
+        "AttackAngle": 90,
+        "Duration": 3,
+        "Damage": 15
+      },
+      {
+        "Price": [
+          {
+            "Name": "Hardwood",
+            "Amount": 15
+          }
+        ],
+        "SearchRadius": 4.6,
+        "AttackRadius": 4.6,
+        "AttackAngle": 90,
+        "Duration": 6,
+        "Damage": 15
+      },
+      {
+        "Price": [
+          {
+            "Name": "Hardwood",
+            "Amount": 3
+          }
+        ],
+        "SearchRadius": 4.6,
+        "AttackRadius": 4.6,
+        "AttackAngle": 90,
+        "Duration": 12,
+        "Damage": 5.5
+      },
+      {
+        "Price": [
+          {
+            "Name": "Hardwood",
+            "Amount": 20
+          }
+        ],
+        "SearchRadius": 4.6,
+        "AttackRadius": 4.6,
+        "AttackAngle": 90,
+        "Duration": 20,
+        "Damage": 6
+      },
+      {
+        "Price": [
+          {
+            "Name": "Hardwood",
+            "Amount": 25
+          }
+        ],
+        "SearchRadius": 4.6,
+        "AttackRadius": 4.6,
+        "AttackAngle": 90,
+        "Duration": 30,
+        "Damage": 6.5
+      },
+      {
+        "Price": [
+          {
+            "Name": "Hardwood",
+            "Amount": 30
+          }
+        ],
+        "SearchRadius": 4.6,
+        "AttackRadius": 4.6,
+        "AttackAngle": 90,
+        "Duration": 40,
+        "Damage": 7
+      }
+    ]
+  }
+}

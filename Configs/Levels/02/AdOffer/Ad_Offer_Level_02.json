@@ -1,0 +1,197 @@
+{
+  "FirstDelay": 50,
+  "StartDelay": 60,
+  "TimeBeforeShow": 60,
+  "ShowTime": 10,
+  "AdOfferInfo": [
+    {
+	  "WeaponLevel": 2,
+      "Rewards":  [
+        [
+		  {
+            "Name": "Hard_Crystal",
+            "Amount": 3
+          }
+        ],
+        [
+		  {
+            "Name": "Money",
+            "Amount": 12
+          }
+        ],
+		[
+		  {
+            "Name": "Granite",
+            "Amount": 12
+          },
+	      {
+            "Name": "Hardwood",
+            "Amount": 16
+          }
+        ]
+      ]
+    },
+	{
+	  "WeaponLevel": 3,
+      "Rewards": [
+        [
+		  {
+            "Name": "Hard_Crystal",
+            "Amount": 4
+          }
+        ],
+        [
+		  {
+            "Name": "Money",
+            "Amount": 16
+          }
+        ],
+		[
+		  {
+            "Name": "Hardwood",
+            "Amount": 16
+          },
+	      {
+            "Name": "Bones",
+            "Amount": 20
+          }
+        ]
+      ]
+    },
+	{
+	  "WeaponLevel": 4,
+      "Rewards": [
+        [
+		  {
+            "Name": "Hard_Crystal",
+            "Amount": 4
+          }
+        ],
+        [
+		  {
+            "Name": "Money",
+            "Amount": 16
+          }
+        ],
+		[
+	      {
+            "Name": "Stone2",
+            "Amount": 14
+          },
+	      {
+            "Name": "Granite",
+            "Amount": 20
+          }
+        ]
+      ]
+    },
+    {
+      "WeaponLevel": 5,
+        "Rewards": [
+          [
+        {
+              "Name": "Hard_Crystal",
+              "Amount": 5
+            }
+          ],
+          [
+        {
+              "Name": "Money",
+              "Amount": 20
+            }
+          ],
+      [
+        {
+              "Name": "Hardwood",
+              "Amount": 20
+            },
+          {
+              "Name": "Granite",
+              "Amount": 24
+            }
+          ]
+        ]
+      },
+      {
+        "WeaponLevel": 6,
+          "Rewards": [
+            [
+          {
+                "Name": "Hard_Crystal",
+                "Amount": 6
+              }
+            ],
+            [
+          {
+                "Name": "Money",
+                "Amount": 24
+              }
+            ],
+        [
+          {
+                "Name": "Hardwood",
+                "Amount": 28
+              },
+            {
+                "Name": "Titan",
+                "Amount": 16
+              }
+            ]
+          ]
+        },
+        {
+          "WeaponLevel": 7,
+            "Rewards": [
+              [
+            {
+                  "Name": "Hard_Crystal",
+                  "Amount": 7
+                }
+              ],
+              [
+            {
+                  "Name": "Money",
+                  "Amount": 28
+                }
+              ],
+          [
+            {
+                  "Name": "Titan",
+                  "Amount": 28
+                },
+              {
+                  "Name": "Crystal",
+                  "Amount": 8
+                }
+              ]
+            ]
+          },
+          {
+            "WeaponLevel": 8,
+              "Rewards": [
+                [
+              {
+                    "Name": "Hard_Crystal",
+                    "Amount": 8
+                  }
+                ],
+                [
+              {
+                    "Name": "Money",
+                    "Amount": 32
+                  }
+                ],
+            [
+              {
+                    "Name": "Crystal",
+                    "Amount": 10
+                  },
+                {
+                    "Name": "Tempered_Glass",
+                    "Amount": 10
+                  }
+                ]
+              ]
+            }
+  ]
+}

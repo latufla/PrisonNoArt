@@ -1,0 +1,87 @@
+{
+  "WeaponLevel": 1,
+  "DailyProgress": [
+    {
+      "Rewards": [
+        {
+          "Name": "Hardwood",
+          "Amount": 3
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Money",
+          "Amount": 25
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Hard_Crystal",
+          "Amount": 3
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Money",
+          "Amount": 40
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Hard_Crystal",
+          "Amount": 10
+        }
+      ]
+    }
+  ],
+  "WeeklyProgress": [
+    {
+      "Rewards": [
+        {
+          "Name": "Hard_Crystal",
+          "Amount": 1
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Hard_Crystal",
+          "Amount": 2
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Hard_Crystal",
+          "Amount": 3
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Hard_Crystal",
+          "Amount": 4
+        }
+      ]
+    },
+	{
+      "Rewards": [
+        {
+          "Name": "Hard_Crystal",
+          "Amount": 15
+        }
+      ]
+    }
+  ],
+}

@@ -1,0 +1,10 @@
+{
+  "Title": "Complete Expeditions",
+  "Rewards": [
+    {
+	  "Name": "Money",
+	  "Amount": 25
+	}
+  ],
+  "MaxProgress": 15
+}

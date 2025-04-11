@@ -1,0 +1,38 @@
+namespace Honeylab.Utils.Ads
+{
+    public readonly struct InterstitialHasRevealedEventArgs : IPlacementAccess, INetworkNameAccess
+    {
+        public readonly IInterstitialService Service;
+        private readonly string _networkName;
+
+
+        public InterstitialHasRevealedEventArgs(IInterstitialService service, string placement)
+            : this(service, placement, null) { }
+
+
+        private InterstitialHasRevealedEventArgs(IInterstitialService service, string placement, string networkName)
+        {
+            Service = service;
+            Placement = placement;
+            _networkName = networkName;
+        }
+
+
+        public string Placement { get; }
+
+
+        public bool TryGetNetworkName(out string networkName)
+        {
+            networkName = _networkName;
+            return !string.IsNullOrEmpty(networkName);
+        }
+
+
+        public InterstitialHasRevealedEventArgs WithNetworkName(string networkName) =>
+            new InterstitialHasRevealedEventArgs(Service, Placement, networkName);
+
+
+        public override string ToString() =>
+            $"{nameof(_networkName)}: {(string.IsNullOrEmpty(_networkName) ? "N/A" : _networkName)}, {nameof(Placement)}: {Placement}";
+    }
+}

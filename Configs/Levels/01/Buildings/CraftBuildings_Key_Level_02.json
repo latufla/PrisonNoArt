@@ -1,0 +1,17 @@
+{
+  "CraftDuration": 1800.0,
+  "CraftPrice": [
+    {
+      "Name": "Key_Level_02_Broken",
+      "Amount": 1
+    },
+	{
+      "Name": "Metal_Plank",
+      "Amount": 5
+    }
+  ],
+  "CraftResult": {
+    "Name": "Key_Level_02",
+    "Amount": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "UnlockDuration": 900.0,
+  "UnlockPrice": [
+    {
+      "Name": "Titan_Plank",
+      "Amount": 8
+    },
+    {
+      "Name": "Hardwood_Plank",
+      "Amount": 15
+    },
+    {
+      "Name": "Granite",
+      "Amount": 20
+    }
+  ]
+}

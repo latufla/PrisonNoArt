@@ -1,0 +1,10 @@
+{
+  "Title": "Kill Factory Enemies",
+  "Rewards": [
+    {
+	  "Name": "Money",
+	  "Amount": 10
+	},
+  ],
+  "MaxProgress": 5
+}

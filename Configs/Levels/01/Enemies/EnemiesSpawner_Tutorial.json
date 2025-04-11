@@ -1,0 +1,12 @@
+{
+  "Delay": {
+    "Min" : 0,
+    "Max" : 0
+  },
+  "Interval": {
+    "Min" : 7200,
+    "Max" : 7200
+  },
+  "MaxCount": 1,
+  "MaxInLifetimeCount": 1
+}

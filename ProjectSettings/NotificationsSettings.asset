@@ -1,0 +1,101 @@
+{
+    "MonoBehaviour": {
+        "m_Enabled": true,
+        "m_EditorHideFlags": 0,
+        "m_Name": "",
+        "m_EditorClassIdentifier": "",
+        "ToolbarIndex": 1,
+        "m_iOSNotificationSettingsValues": {
+            "m_Keys": [
+                "UnityNotificationRequestAuthorizationOnAppLaunch",
+                "UnityNotificationDefaultAuthorizationOptions",
+                "UnityAddRemoteNotificationCapability",
+                "UnityNotificationRequestAuthorizationForRemoteNotificationsOnAppLaunch",
+                "UnityRemoteNotificationForegroundPresentationOptions",
+                "UnityUseAPSReleaseEnvironment",
+                "UnityUseLocationNotificationTrigger",
+                "UnityAddTimeSensitiveEntitlement"
+            ],
+            "m_Values": [
+                "False",
+                "7",
+                "True",
+                "False",
+                "-1",
+                "False",
+                "False",
+                "False"
+            ]
+        },
+        "m_AndroidNotificationSettingsValues": {
+            "m_Keys": [
+                "UnityNotificationAndroidRescheduleOnDeviceRestart",
+                "UnityNotificationAndroidScheduleExactAlarms",
+                "UnityNotificationAndroidUseCustomActivity",
+                "UnityNotificationAndroidCustomActivityString"
+            ],
+            "m_Values": [
+                "True",
+                "0",
+                "False",
+                "com.unity3d.player.UnityPlayerActivity"
+            ]
+        },
+        "DrawableResources": [
+            {
+                "Id": "notification_come_back_small",
+                "Type": 0,
+                "Asset": {
+                    "fileID": 2800000,
+                    "guid": "d9bc08e3123872d4ab9663f797b48bb0",
+                    "type": 3
+                }
+            },
+            {
+                "Id": "notification_come_back_big",
+                "Type": 1,
+                "Asset": {
+                    "fileID": 2800000,
+                    "guid": "67346dc1968c066488eac5bfb663db34",
+                    "type": 3
+                }
+            },
+            {
+                "Id": "notification_craft_small",
+                "Type": 0,
+                "Asset": {
+                    "fileID": 2800000,
+                    "guid": "020ad376f0af8454fb351df6ee81abc2",
+                    "type": 3
+                }
+            },
+            {
+                "Id": "notification_craft_big",
+                "Type": 1,
+                "Asset": {
+                    "fileID": 2800000,
+                    "guid": "adb18bbf74bd2d240b152673e5a93905",
+                    "type": 3
+                }
+            },
+            {
+                "Id": "notification_upgrade_small",
+                "Type": 0,
+                "Asset": {
+                    "fileID": 2800000,
+                    "guid": "614e2f15c1241e64fb53f54f8967221c",
+                    "type": 3
+                }
+            },
+            {
+                "Id": "notification_upgrade_big",
+                "Type": 1,
+                "Asset": {
+                    "fileID": 2800000,
+                    "guid": "2907a8a78a5f4b34d9c1e6034fa5b189",
+                    "type": 3
+                }
+            }
+        ]
+    }
+}

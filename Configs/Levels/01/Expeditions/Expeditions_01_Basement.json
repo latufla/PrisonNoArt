@@ -1,0 +1,230 @@
+{
+  "Consumables": [
+    "Wood"
+  ],
+  "SimpleGetInfo": {
+	"Title": "You don’t have enough wood for expeditions",
+    "RewardedAdResult": {
+        "Name": "Wood",
+        "Amount": 1
+    },
+    "ConsumablesResult": {
+        "Name": "Wood",
+        "Amount": 3
+    },
+    "ConsumablesRequired": {
+        "Name": "Hard_Crystal",
+        "Amount": 30
+    }
+  },
+  "Expeditions": [
+    {
+      "SceneName": "Levels_Expeditions_01_Basement",
+      "Name": "Scary Basement 1",
+      "Price": [
+        {
+          "Name": "Wood",
+          "Amount": 1
+        }
+      ],
+      "CombatPower": 150,
+      "Enemies": 3,
+      "EnemiesOnLevel": 6,
+      "Objects": 20,
+      "Chests": [
+        [
+          {
+            "Name": "Wood",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Metal",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 1
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 3,
+        "Chests": 3
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_01_Basement",
+      "Name": "Scary Basement 2",
+      "Price": [
+        {
+          "Name": "Wood",
+          "Amount": 2
+        }
+      ],
+      "CombatPower": 160,
+      "Enemies": 3,
+      "EnemiesOnLevel": 6,
+      "Objects": 20,
+      "Chests": [
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 2
+          }
+        ],
+        [
+          {
+            "Name": "Body_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Rubber",
+            "Amount": 2
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 3,
+        "Chests": 3
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_01_Basement",
+      "Name": "Scary Basement 3",
+      "Price": [
+        {
+          "Name": "Wood",
+          "Amount": 3
+        }
+      ],
+      "CombatPower": 170,
+      "Enemies": 3,
+      "EnemiesOnLevel": 6,
+      "Objects": 20,
+      "Chests": [
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Body_Card",
+            "Amount": 2
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 3,
+        "Chests": 3
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_01_Basement",
+      "Name": "Scary Basement 4",
+      "Price": [
+        {
+          "Name": "Wood",
+          "Amount": 4
+        }
+      ],
+      "CombatPower": 175,
+      "Enemies": 4,
+      "EnemiesOnLevel": 6,
+      "Objects": 20,
+      "Chests": [
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Head_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Body_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 2
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 4,
+        "Chests": 4
+      }
+    },
+    {
+      "SceneName": "Levels_Expeditions_01_Basement",
+      "Name": "Scary Basement 5",
+      "Price": [
+        {
+          "Name": "Wood",
+          "Amount": 5
+        }
+      ],
+      "CombatPower": 200,
+      "Enemies": 5,
+      "EnemiesOnLevel": 10,
+      "Objects": 20,
+      "Chests": [
+        [
+          {
+            "Name": "Backpack_Card",
+            "Amount": 3
+          }
+        ],
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Body_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Head_Card",
+            "Amount": 1
+          }
+        ],
+        [
+          {
+            "Name": "Gun_Card",
+            "Amount": 2
+          }
+        ]
+      ],
+      "Quest": {
+        "Enemies": 5,
+        "Chests": 5
+      }
+    }
+    ]
+  }

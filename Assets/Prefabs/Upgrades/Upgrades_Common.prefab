@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8944413256242632120
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3687118211994441006, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687118211994441006, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687118211994441006, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687118211994441006, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687118211994441006, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687118211994441006, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687118211994441006, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687118211994441006, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687118211994441006, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687118211994441006, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4033909967753889071, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+      propertyPath: m_Name
+      value: Upgrades_Common
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+--- !u!1 &5466142659469103255 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4033909967753889071, guid: 1dd838439777f3b4bae5e78dc0ea772f, type: 3}
+  m_PrefabInstance: {fileID: 8944413256242632120}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &631837701619235857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5466142659469103255}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28967070924f4217b60501552328377b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _id: {fileID: 0}
+  _order: -1000
+  _configId: {fileID: 0}

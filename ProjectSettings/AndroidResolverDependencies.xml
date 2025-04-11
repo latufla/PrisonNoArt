@@ -1,0 +1,44 @@
+<dependencies>
+  <packages>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_AdManager_Admob:4.9.0.2.3</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_AdProviders:4.9.0.2.4</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Analytics:4.9.0.0.3</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_AppsFlyer:0.0.0.0.209</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Banners_Admob:4.9.0.2.1</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Billing:4.9.0.1.1</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Core:4.9.0.2.7</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_CrashTool:4.9.0.0.1</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_ECPM:4.7.0.650.1</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Elephant:4.7.0.650.1</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Facebook:4.9.0.1.5</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_FirebaseAgent:4.9.0.0.3</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Interstitials_Admob:4.9.0.2.7</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_OpenAds:4.7.0.650.1</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_PopupMgr:4.7.0.650.1</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Privacy_Settings:4.9.0.2.3</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Promotion:4.7.0.650.1</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Remote_Config:4.7.0.650.1</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_RewardedAds_Admob:4.9.0.2.7</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_RewardedInterstitials:4.7.0.650.1</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Unity:4.7.0.650.1</package>
+    <package>com.yandex.android:mobmetricalib:5.2.0</package>
+  </packages>
+  <files />
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.prison.survival.story" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useFullCustomMavenRepoPathWhenExport" value="True" />
+    <setting name="useFullCustomMavenRepoPathWhenNotExport" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

@@ -1,0 +1,78 @@
+{
+  "Upgrade": {
+    "Levels": [
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 0
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Damage": 1
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 0
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Damage": 40
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 0
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 4,
+        "AttackAngle": 150,
+        "Damage": 80
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 0
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Damage": 15
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 0
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Damage": 6
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 0
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Damage": 7
+      }
+    ]
+  }
+}

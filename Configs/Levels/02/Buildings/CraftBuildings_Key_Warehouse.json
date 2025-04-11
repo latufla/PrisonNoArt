@@ -1,0 +1,28 @@
+{
+  "CraftDuration": 900.0,
+  "CraftPrice": [
+    {
+      "Name": "Door_Component_02_01",
+      "Amount": 1
+    },
+	{
+      "Name": "Titan_Plank",
+      "Amount": 5
+    }
+  ],
+  "CraftResult": {
+    "Name": "Key_Warehouse",
+    "Amount": 1
+  },
+  "UnlockDuration": 300.0,
+  "UnlockPrice": [
+    {
+      "Name": "Granite_Plank",
+      "Amount": 10
+    },
+	{
+      "Name": "Titan_Plank",
+      "Amount": 5
+    }
+  ]
+}

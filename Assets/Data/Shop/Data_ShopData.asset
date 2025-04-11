@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cde69d3250e46b982dc244296660aff, type: 3}
+  m_Name: Data_ShopData
+  m_EditorClassIdentifier: 
+  _persistenceId: {fileID: 11400000, guid: c73cb1da9fdfa0b48be3c222f76b655d, type: 2}
+  _hardCurrencyData: {fileID: 11400000, guid: 845650525666b174e91b56fc3a57ded6, type: 2}
+  _softCurrencyData: {fileID: 11400000, guid: 952aa1ae1d63389438462382edbc8830, type: 2}
+  _cardsData: {fileID: 11400000, guid: 4020077b41842284b963f08b910bfe21, type: 2}
+  _specialItemsData: {fileID: 11400000, guid: b858186f3e6ba344a85353c5ea18275c, type: 2}
+  _levelWeaponTypeId: {fileID: 11400000, guid: ed2f6f117dfd92b46bfa3cdd5f5a7fb6, type: 2}

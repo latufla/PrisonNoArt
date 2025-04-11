@@ -1,0 +1,20 @@
+{
+  "MaxResources" : 3,
+  "MinPercentage" : 80,
+  "MaxFlyups" : 5,
+  "Delay" : 5,
+  "ResourceTypes" :
+  [
+    "Hardwood",
+    "Hardwood_Plank",
+    "Granite",
+    "Granite_Plank",
+    "Titan",
+    "Titan_Plank",
+    "Crystal",
+    "Crystal_Plank",
+    "Bones",
+    "Tempered_Glass",
+    "Stone2"
+  ]
+}

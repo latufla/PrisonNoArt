@@ -1,0 +1,17 @@
+{
+  "UnlockDuration": 3600.0,
+  "UnlockPrice": [
+    {
+      "Name": "Crystal_Plank",
+      "Amount": 50
+    },
+	{
+      "Name": "Titan_Plank",
+      "Amount": 30
+    },
+	{
+      "Name": "Boat_Engine",
+      "Amount": 1
+    }
+  ]
+}

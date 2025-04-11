@@ -1,0 +1,17 @@
+{
+  "UnlockDuration": 3600.0,
+  "UnlockPrice": [
+    {
+      "Name": "Key_Level_03",
+      "Amount": 1
+    },
+	{
+      "Name": "ExitDoor_Component_02",
+      "Amount": 1
+    },
+	{
+      "Name": "ExitDoor_Component_03",
+      "Amount": 1
+    }
+  ]
+}

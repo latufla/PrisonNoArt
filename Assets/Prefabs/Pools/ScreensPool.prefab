@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5252370449893169000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3857949827858559051}
+  - component: {fileID: 2033660059869891443}
+  m_Layer: 0
+  m_Name: ScreensPool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3857949827858559051
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5252370449893169000}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2033660059869891443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5252370449893169000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1155157960ff8542a0456547b060cde, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bindings:
+  - {fileID: 9027793681780389241, guid: 264eb290534e94f4fb238e168837ca46, type: 3}
+  - {fileID: 9027793681780389241, guid: 7eec42dd3f3c116449db1232941017e6, type: 3}
+  - {fileID: 9027793681780389241, guid: a775718e8d612ee45b4a7c85ae5c78d7, type: 3}
+  - {fileID: 9027793681780389241, guid: fc3f423e5c717724488d4abd372a3804, type: 3}
+  - {fileID: 9027793681780389241, guid: 821967ab7ecfd884a932ae7d65319060, type: 3}
+  - {fileID: 9027793681780389241, guid: f6c60c981420e5f4ba6188bb98f2321f, type: 3}
+  - {fileID: 9027793681780389241, guid: a9571f67c9248c64d89f4fcacf8937dc, type: 3}
+  - {fileID: 9027793681780389241, guid: 73ff928b20e784e48a848db3b7320980, type: 3}
+  - {fileID: 9027793681780389241, guid: 2a798f0b87dbce54cb8116703ab7ba4d, type: 3}
+  - {fileID: 473838149911683504, guid: 4b8788d3ee4f16840b3e63d030a7c0d6, type: 3}
+  _useInstantiateOnly: 0
+  _prewarmAmount: 1

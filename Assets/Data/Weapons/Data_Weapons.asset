@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5374f6d74684bc7818f2867901e2d42, type: 3}
+  m_Name: Data_Weapons
+  m_EditorClassIdentifier: 
+  _weapons:
+  - _name: Stick
+    _id: {fileID: 11400000, guid: 7df77aa0ae68d074b8f653fb729d4015, type: 2}
+    _typeId: {fileID: 11400000, guid: ed2f6f117dfd92b46bfa3cdd5f5a7fb6, type: 2}
+    _levels:
+    - _sprite: {fileID: 21300000, guid: 57658a55073df3342b78fed5d45b4b00, type: 3}
+    - _sprite: {fileID: 21300000, guid: f40f0b913a51f5a46b1071685dfb88b2, type: 3}
+    - _sprite: {fileID: 21300000, guid: 0c63b726cdd98df4e8899c3c459ec781, type: 3}
+    - _sprite: {fileID: 21300000, guid: 5b7ba4e9fa2bdfe4ca6a88f304c56300, type: 3}
+    - _sprite: {fileID: 21300000, guid: a2a0feee57afd804f9846e03da82024a, type: 3}
+    - _sprite: {fileID: 21300000, guid: 4a40bfcb3eb058346bbf8f14b171d331, type: 3}
+    - _sprite: {fileID: 21300000, guid: e7fb37976f5ad554b91b32c7a937a891, type: 3}
+    - _sprite: {fileID: 21300000, guid: f9be88f9048024c4fad101ba9b8f5255, type: 3}
+    - _sprite: {fileID: 21300000, guid: a3bd9d4b1ceeb3f41863e513020eff4a, type: 3}
+    - _sprite: {fileID: 21300000, guid: de71e08c12aa5374fb3b6e6d2fcebd11, type: 3}
+    - _sprite: {fileID: 21300000, guid: 4744c7a5c5465674bbda32180930161d, type: 3}
+    - _sprite: {fileID: 21300000, guid: 267e32b562bb941cb8afafba05705424, type: 3}
+    - _sprite: {fileID: 21300000, guid: a5f781f655beb49c697efc9fb956616e, type: 3}
+    - _sprite: {fileID: 21300000, guid: 7b30b38730c47442bb939484fe3d02c6, type: 3}
+    - _sprite: {fileID: 21300000, guid: 3b69ba07bd02c4f66a589cfc949bcffa, type: 3}
+    - _sprite: {fileID: 21300000, guid: 3c8b1b020c4db004f969de6e7de68f65, type: 3}
+    _priority: 0
+  - _name: Gun
+    _id: {fileID: 11400000, guid: 770e983d4b77e0141820f024a9492564, type: 2}
+    _typeId: {fileID: 11400000, guid: 0d65691bbe1efdb4ca9a9aa697f2ad63, type: 2}
+    _levels:
+    - _sprite: {fileID: 0}
+    - _sprite: {fileID: 0}
+    _priority: 1000
+  - _name: Stick_Enemies
+    _id: {fileID: 11400000, guid: 61335f4697b887346808042d2d173915, type: 2}
+    _typeId: {fileID: 11400000, guid: ed2f6f117dfd92b46bfa3cdd5f5a7fb6, type: 2}
+    _levels:
+    - _sprite: {fileID: 21300000, guid: 57658a55073df3342b78fed5d45b4b00, type: 3}
+    - _sprite: {fileID: 21300000, guid: f40f0b913a51f5a46b1071685dfb88b2, type: 3}
+    - _sprite: {fileID: 21300000, guid: 0c63b726cdd98df4e8899c3c459ec781, type: 3}
+    - _sprite: {fileID: 21300000, guid: 5b7ba4e9fa2bdfe4ca6a88f304c56300, type: 3}
+    - _sprite: {fileID: 21300000, guid: a2a0feee57afd804f9846e03da82024a, type: 3}
+    - _sprite: {fileID: 21300000, guid: 4a40bfcb3eb058346bbf8f14b171d331, type: 3}
+    - _sprite: {fileID: 21300000, guid: e7fb37976f5ad554b91b32c7a937a891, type: 3}
+    - _sprite: {fileID: 21300000, guid: f9be88f9048024c4fad101ba9b8f5255, type: 3}
+    - _sprite: {fileID: 21300000, guid: a3bd9d4b1ceeb3f41863e513020eff4a, type: 3}
+    - _sprite: {fileID: 21300000, guid: de71e08c12aa5374fb3b6e6d2fcebd11, type: 3}
+    - _sprite: {fileID: 21300000, guid: 4744c7a5c5465674bbda32180930161d, type: 3}
+    - _sprite: {fileID: 21300000, guid: 267e32b562bb941cb8afafba05705424, type: 3}
+    - _sprite: {fileID: 21300000, guid: a5f781f655beb49c697efc9fb956616e, type: 3}
+    - _sprite: {fileID: 21300000, guid: 7b30b38730c47442bb939484fe3d02c6, type: 3}
+    - _sprite: {fileID: 21300000, guid: 3b69ba07bd02c4f66a589cfc949bcffa, type: 3}
+    - _sprite: {fileID: 21300000, guid: 3c8b1b020c4db004f969de6e7de68f65, type: 3}
+    _priority: 0
+  - _name: Empty_Enemies_1_Hit
+    _id: {fileID: 11400000, guid: 5e029bd16228f48c197005a51a18a69f, type: 2}
+    _typeId: {fileID: 11400000, guid: ed2f6f117dfd92b46bfa3cdd5f5a7fb6, type: 2}
+    _levels:
+    - _sprite: {fileID: 21300000, guid: 57658a55073df3342b78fed5d45b4b00, type: 3}
+    - _sprite: {fileID: 21300000, guid: f40f0b913a51f5a46b1071685dfb88b2, type: 3}
+    - _sprite: {fileID: 21300000, guid: 0c63b726cdd98df4e8899c3c459ec781, type: 3}
+    - _sprite: {fileID: 21300000, guid: 5b7ba4e9fa2bdfe4ca6a88f304c56300, type: 3}
+    - _sprite: {fileID: 21300000, guid: a2a0feee57afd804f9846e03da82024a, type: 3}
+    - _sprite: {fileID: 21300000, guid: 4a40bfcb3eb058346bbf8f14b171d331, type: 3}
+    - _sprite: {fileID: 21300000, guid: e7fb37976f5ad554b91b32c7a937a891, type: 3}
+    - _sprite: {fileID: 21300000, guid: f9be88f9048024c4fad101ba9b8f5255, type: 3}
+    - _sprite: {fileID: 21300000, guid: a3bd9d4b1ceeb3f41863e513020eff4a, type: 3}
+    - _sprite: {fileID: 21300000, guid: de71e08c12aa5374fb3b6e6d2fcebd11, type: 3}
+    - _sprite: {fileID: 21300000, guid: 4744c7a5c5465674bbda32180930161d, type: 3}
+    - _sprite: {fileID: 21300000, guid: 267e32b562bb941cb8afafba05705424, type: 3}
+    - _sprite: {fileID: 21300000, guid: a5f781f655beb49c697efc9fb956616e, type: 3}
+    - _sprite: {fileID: 21300000, guid: 7b30b38730c47442bb939484fe3d02c6, type: 3}
+    - _sprite: {fileID: 21300000, guid: 3b69ba07bd02c4f66a589cfc949bcffa, type: 3}
+    - _sprite: {fileID: 21300000, guid: 3c8b1b020c4db004f969de6e7de68f65, type: 3}
+    _priority: 0
+  - _name: Empty_Enemies_2_Hit
+    _id: {fileID: 11400000, guid: bb5441d8cb4ce417a8df5a91910035fb, type: 2}
+    _typeId: {fileID: 11400000, guid: ed2f6f117dfd92b46bfa3cdd5f5a7fb6, type: 2}
+    _levels:
+    - _sprite: {fileID: 21300000, guid: 57658a55073df3342b78fed5d45b4b00, type: 3}
+    - _sprite: {fileID: 21300000, guid: f40f0b913a51f5a46b1071685dfb88b2, type: 3}
+    - _sprite: {fileID: 21300000, guid: 0c63b726cdd98df4e8899c3c459ec781, type: 3}
+    - _sprite: {fileID: 21300000, guid: 5b7ba4e9fa2bdfe4ca6a88f304c56300, type: 3}
+    - _sprite: {fileID: 21300000, guid: a2a0feee57afd804f9846e03da82024a, type: 3}
+    - _sprite: {fileID: 21300000, guid: 4a40bfcb3eb058346bbf8f14b171d331, type: 3}
+    - _sprite: {fileID: 21300000, guid: e7fb37976f5ad554b91b32c7a937a891, type: 3}
+    - _sprite: {fileID: 21300000, guid: f9be88f9048024c4fad101ba9b8f5255, type: 3}
+    - _sprite: {fileID: 21300000, guid: a3bd9d4b1ceeb3f41863e513020eff4a, type: 3}
+    - _sprite: {fileID: 21300000, guid: de71e08c12aa5374fb3b6e6d2fcebd11, type: 3}
+    - _sprite: {fileID: 21300000, guid: 4744c7a5c5465674bbda32180930161d, type: 3}
+    - _sprite: {fileID: 21300000, guid: 267e32b562bb941cb8afafba05705424, type: 3}
+    - _sprite: {fileID: 21300000, guid: a5f781f655beb49c697efc9fb956616e, type: 3}
+    - _sprite: {fileID: 21300000, guid: 7b30b38730c47442bb939484fe3d02c6, type: 3}
+    - _sprite: {fileID: 21300000, guid: 3b69ba07bd02c4f66a589cfc949bcffa, type: 3}
+    - _sprite: {fileID: 21300000, guid: 3c8b1b020c4db004f969de6e7de68f65, type: 3}
+    _priority: 0
+  - _name: MachineGun
+    _id: {fileID: 11400000, guid: af4189be0915d4762b3d6bb4672b5b8b, type: 2}
+    _typeId: {fileID: 11400000, guid: 0d65691bbe1efdb4ca9a9aa697f2ad63, type: 2}
+    _levels:
+    - _sprite: {fileID: 21300000, guid: 6b590add6d4d84505a264aab3cfb5502, type: 3}
+    _priority: 1100
+  _inventoryWeaponTypeId: {fileID: 11400000, guid: ed2f6f117dfd92b46bfa3cdd5f5a7fb6, type: 2}

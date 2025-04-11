@@ -1,0 +1,13 @@
+{
+  "Health": 1650,
+  "WeaponLevel": 0,
+  "Speed": 8.0,
+  "FollowStoppageDistance": 6.0,
+  "HealthForFirstPhasePercent": 50,
+  "Rewards": [
+    {
+      "Name": "Money",
+      "Amount": 6
+    }
+  ]
+  }

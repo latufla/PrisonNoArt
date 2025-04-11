@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97035fb730d749819df6748bb0275e06, type: 3}
+  m_Name: Data_ShopCardItems
+  m_EditorClassIdentifier: 
+  _data:
+  - _data:
+    - _name: Backpack_Card
+      _title: Backpack
+      _icon: {fileID: 21300000, guid: 585e3d1afc2796a4ab442e1a6bc63d18, type: 3}
+      _id: {fileID: 11400000, guid: 453db970c4ab5b942966490f2eddcc75, type: 2}
+      _amountBase: 1
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 10
+    - _name: Body_Card
+      _title: Body
+      _icon: {fileID: 21300000, guid: 23e5c6d77fc274adeaf86e26db048ea8, type: 3}
+      _id: {fileID: 11400000, guid: 6a5548e2d8afb194791318990d7af8b3, type: 2}
+      _amountBase: 1
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _pircePerConsumable: 20
+    - _name: Gun_Card
+      _title: Gun
+      _icon: {fileID: 21300000, guid: ae84301c00ab2455db543ac1acb3906f, type: 3}
+      _id: {fileID: 11400000, guid: 5786ecdc53e6bee48bb33c17921dd02b, type: 2}
+      _amountBase: 1
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 20
+    - _name: Head_Card
+      _title: Head
+      _icon: {fileID: 21300000, guid: ca4aafba74f954f7493dcc9e1edf16b7, type: 3}
+      _id: {fileID: 11400000, guid: 3def3233736488847bc17e1defb10d02, type: 2}
+      _amountBase: 1
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _pircePerConsumable: 25
+    - _name: Legs_Card
+      _title: Legs
+      _icon: {fileID: 21300000, guid: 30b9c4756cc83478292777f31994b19c, type: 3}
+      _id: {fileID: 11400000, guid: fa0ea3d76a63a3247ad02b7b4a66d233, type: 2}
+      _amountBase: 1
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 30
+  - _data:
+    - _name: Backpack_Card
+      _title: Backpack
+      _icon: {fileID: 21300000, guid: 585e3d1afc2796a4ab442e1a6bc63d18, type: 3}
+      _id: {fileID: 11400000, guid: 453db970c4ab5b942966490f2eddcc75, type: 2}
+      _amountBase: 2
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 10
+    - _name: Body_Card
+      _title: Body
+      _icon: {fileID: 21300000, guid: 23e5c6d77fc274adeaf86e26db048ea8, type: 3}
+      _id: {fileID: 11400000, guid: 6a5548e2d8afb194791318990d7af8b3, type: 2}
+      _amountBase: 2
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _pircePerConsumable: 20
+    - _name: Gun_Card
+      _title: Gun
+      _icon: {fileID: 21300000, guid: ae84301c00ab2455db543ac1acb3906f, type: 3}
+      _id: {fileID: 11400000, guid: 5786ecdc53e6bee48bb33c17921dd02b, type: 2}
+      _amountBase: 1
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 20
+    - _name: Head_Card
+      _title: Head
+      _icon: {fileID: 21300000, guid: ca4aafba74f954f7493dcc9e1edf16b7, type: 3}
+      _id: {fileID: 11400000, guid: 3def3233736488847bc17e1defb10d02, type: 2}
+      _amountBase: 2
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _pircePerConsumable: 40
+    - _name: Legs_Card
+      _title: Legs
+      _icon: {fileID: 21300000, guid: 30b9c4756cc83478292777f31994b19c, type: 3}
+      _id: {fileID: 11400000, guid: fa0ea3d76a63a3247ad02b7b4a66d233, type: 2}
+      _amountBase: 1
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 30
+  - _data:
+    - _name: Backpack_Card
+      _title: Backpack
+      _icon: {fileID: 21300000, guid: 585e3d1afc2796a4ab442e1a6bc63d18, type: 3}
+      _id: {fileID: 11400000, guid: 453db970c4ab5b942966490f2eddcc75, type: 2}
+      _amountBase: 2
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 20
+    - _name: Body_Card
+      _title: Body
+      _icon: {fileID: 21300000, guid: 23e5c6d77fc274adeaf86e26db048ea8, type: 3}
+      _id: {fileID: 11400000, guid: 6a5548e2d8afb194791318990d7af8b3, type: 2}
+      _amountBase: 2
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _pircePerConsumable: 40
+    - _name: Gun_Card
+      _title: Gun
+      _icon: {fileID: 21300000, guid: ae84301c00ab2455db543ac1acb3906f, type: 3}
+      _id: {fileID: 11400000, guid: 5786ecdc53e6bee48bb33c17921dd02b, type: 2}
+      _amountBase: 1
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 20
+    - _name: Head_Card
+      _title: Head
+      _icon: {fileID: 21300000, guid: ca4aafba74f954f7493dcc9e1edf16b7, type: 3}
+      _id: {fileID: 11400000, guid: 3def3233736488847bc17e1defb10d02, type: 2}
+      _amountBase: 2
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _pircePerConsumable: 50
+    - _name: Legs_Card
+      _title: Legs
+      _icon: {fileID: 21300000, guid: 30b9c4756cc83478292777f31994b19c, type: 3}
+      _id: {fileID: 11400000, guid: fa0ea3d76a63a3247ad02b7b4a66d233, type: 2}
+      _amountBase: 1
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 30
+  - _data:
+    - _name: Backpack_Card
+      _title: Backpack
+      _icon: {fileID: 21300000, guid: 585e3d1afc2796a4ab442e1a6bc63d18, type: 3}
+      _id: {fileID: 11400000, guid: 453db970c4ab5b942966490f2eddcc75, type: 2}
+      _amountBase: 2
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 20
+    - _name: Body_Card
+      _title: Body
+      _icon: {fileID: 21300000, guid: 23e5c6d77fc274adeaf86e26db048ea8, type: 3}
+      _id: {fileID: 11400000, guid: 6a5548e2d8afb194791318990d7af8b3, type: 2}
+      _amountBase: 2
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _pircePerConsumable: 40
+    - _name: Gun_Card
+      _title: Gun
+      _icon: {fileID: 21300000, guid: ae84301c00ab2455db543ac1acb3906f, type: 3}
+      _id: {fileID: 11400000, guid: 5786ecdc53e6bee48bb33c17921dd02b, type: 2}
+      _amountBase: 1
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 20
+    - _name: Head_Card
+      _title: Head
+      _icon: {fileID: 21300000, guid: ca4aafba74f954f7493dcc9e1edf16b7, type: 3}
+      _id: {fileID: 11400000, guid: 3def3233736488847bc17e1defb10d02, type: 2}
+      _amountBase: 2
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _pircePerConsumable: 50
+    - _name: Legs_Card
+      _title: Legs
+      _icon: {fileID: 21300000, guid: 30b9c4756cc83478292777f31994b19c, type: 3}
+      _id: {fileID: 11400000, guid: fa0ea3d76a63a3247ad02b7b4a66d233, type: 2}
+      _amountBase: 4
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 10
+  - _data:
+    - _name: Backpack_Card
+      _title: Backpack
+      _icon: {fileID: 21300000, guid: 585e3d1afc2796a4ab442e1a6bc63d18, type: 3}
+      _id: {fileID: 11400000, guid: 453db970c4ab5b942966490f2eddcc75, type: 2}
+      _amountBase: 3
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 30
+    - _name: Body_Card
+      _title: Body
+      _icon: {fileID: 21300000, guid: 23e5c6d77fc274adeaf86e26db048ea8, type: 3}
+      _id: {fileID: 11400000, guid: 6a5548e2d8afb194791318990d7af8b3, type: 2}
+      _amountBase: 2
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _pircePerConsumable: 40
+    - _name: Gun_Card
+      _title: Gun
+      _icon: {fileID: 21300000, guid: ae84301c00ab2455db543ac1acb3906f, type: 3}
+      _id: {fileID: 11400000, guid: 5786ecdc53e6bee48bb33c17921dd02b, type: 2}
+      _amountBase: 1
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 20
+    - _name: Head_Card
+      _title: Head
+      _icon: {fileID: 21300000, guid: ca4aafba74f954f7493dcc9e1edf16b7, type: 3}
+      _id: {fileID: 11400000, guid: 3def3233736488847bc17e1defb10d02, type: 2}
+      _amountBase: 2
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _pircePerConsumable: 25
+    - _name: Legs_Card
+      _title: Legs
+      _icon: {fileID: 21300000, guid: 30b9c4756cc83478292777f31994b19c, type: 3}
+      _id: {fileID: 11400000, guid: fa0ea3d76a63a3247ad02b7b4a66d233, type: 2}
+      _amountBase: 1
+      _amountPerLevel: 0
+      _priceId: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _pircePerConsumable: 30
+  _refreshTime: 21600

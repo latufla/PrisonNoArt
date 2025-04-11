@@ -1,0 +1,10 @@
+{
+  "Title": "Upgrade Weapon",
+  "Rewards": [
+    {
+	  "Name": "Cardboard",
+	  "Amount": 1
+	},
+  ],
+  "MaxProgress": 1
+}

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 784990023ad749d7977d5ba986b28a98, type: 3}
+  m_Name: Data_ShopSpecialItems
+  m_EditorClassIdentifier: 
+  _records:
+  - _itemId: {fileID: 11400000, guid: 7a98943afe6226e4c9dbb8982dd13565, type: 2}
+    _data:
+    - _name: Special_Crystal_01
+      _title: GEMS
+      _icon: {fileID: 21300000, guid: 8f37d55813f004849a17d57afd11f687, type: 3}
+      _id: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _amountBase: 3
+      _amountPerLevel: 0
+    - _name: Special_Crystal_01
+      _title: GEMS
+      _icon: {fileID: 21300000, guid: 8f37d55813f004849a17d57afd11f687, type: 3}
+      _id: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _amountBase: 3
+      _amountPerLevel: 0
+    - _name: Special_Crystal_01
+      _title: GEMS
+      _icon: {fileID: 21300000, guid: 8f37d55813f004849a17d57afd11f687, type: 3}
+      _id: {fileID: 11400000, guid: 26ac807c3fe538d4690c2eed8ffc143b, type: 2}
+      _amountBase: 3
+      _amountPerLevel: 0
+    _rewardedAdsLocation: shop_special_daily
+    _refreshTime: 14400
+  - _itemId: {fileID: 11400000, guid: ead4470b046ff4d43b6be6ef7586fe0e, type: 2}
+    _data:
+    - _name: Special_Money_01
+      _title: Money
+      _icon: {fileID: 21300000, guid: 0b19f37ddc7de4c9fa4bd95d8d79c4cb, type: 3}
+      _id: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _amountBase: 20
+      _amountPerLevel: 0
+    - _name: Special_Money_01
+      _title: Money
+      _icon: {fileID: 21300000, guid: 0b19f37ddc7de4c9fa4bd95d8d79c4cb, type: 3}
+      _id: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _amountBase: 20
+      _amountPerLevel: 0
+    - _name: Special_Money_01
+      _title: Money
+      _icon: {fileID: 21300000, guid: 0b19f37ddc7de4c9fa4bd95d8d79c4cb, type: 3}
+      _id: {fileID: 11400000, guid: 4ceaa8e471cb47d498b5588fd0221a30, type: 2}
+      _amountBase: 20
+      _amountPerLevel: 0
+    _rewardedAdsLocation: shop_special_money
+    _refreshTime: 14400

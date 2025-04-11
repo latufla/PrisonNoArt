@@ -1,0 +1,377 @@
+{
+  "Upgrade": {
+    "Levels": [
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 0
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Damage": 1,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2
+      },
+      {
+        "Price": [
+          {
+            "Name": "Hardwood",
+            "Amount": 8
+          },
+		  {
+            "Name": "Bones",
+            "Amount": 4
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 60,
+        "Damage": 2,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Hardwood",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Bones",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Hardwood",
+            "Amount": 6
+          },
+          {
+            "Name": "Bones",
+            "Amount": 5
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Hardwood",
+            "Amount": 10
+          },
+		  {
+            "Name": "Granite",
+            "Amount": 10
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 120,
+        "Damage": 3,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Hardwood",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Granite",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Hardwood",
+            "Amount": 6
+          },
+          {
+            "Name": "Granite",
+            "Amount": 5
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Hardwood_Plank",
+            "Amount": 4
+          },
+		  {
+            "Name": "Bones",
+            "Amount": 10
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 480,
+        "Damage": 4,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Hardwood_Plank",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 5
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Bones",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Hardwood_Plank",
+            "Amount": 1
+          },
+          {
+            "Name": "Bones",
+            "Amount": 5
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Granite",
+            "Amount": 15
+          },
+		  {
+            "Name": "Stone2",
+            "Amount": 18
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 900,
+        "Damage": 5,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Granite",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Stone2",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Granite",
+            "Amount": 5
+          },
+          {
+            "Name": "Stone2",
+            "Amount": 5
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Hardwood_Plank",
+            "Amount": 5
+          },
+		  {
+            "Name": "Granite_Plank",
+            "Amount": 3
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 900,
+        "Damage": 6,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Hardwood_Plank",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 5
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Granite_Plank",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 5
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Hardwood_Plank",
+            "Amount": 1
+          },
+          {
+            "Name": "Granite_Plank",
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Hardwood",
+            "Amount": 22
+          },
+		  {
+            "Name": "Titan",
+            "Amount": 15
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 1800,
+        "Damage": 6,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Hardwood",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Titan",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 4
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Hardwood",
+            "Amount": 6
+          },
+          {
+            "Name": "Titan",
+            "Amount": 4
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Crystal_Plank",
+            "Amount": 3
+          },
+		  {
+            "Name": "Titan_Plank",
+            "Amount": 3
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 1800,
+        "Damage": 7,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Crystal_Plank",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 5
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Titan_Plank",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 5
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Crystal_Plank",
+            "Amount": 1
+          },
+          {
+            "Name": "Titan_Plank",
+            "Amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "CraftDuration": 300.0,
+  "CraftPrice": [
+    {
+      "Name": "Wood",
+      "Amount": 0
+    }
+  ],
+  "CraftResult": {
+    "Name": "Gasoline",
+    "Amount": 1
+  },
+  "UnlockDuration": 900.0,
+  "UnlockPrice": [
+    {
+      "Name": "Wood_Plank",
+      "Amount": 5
+    },
+    {
+      "Name": "Rubber",
+      "Amount": 30
+    },
+	{
+      "Name": "Metal",
+      "Amount": 20
+    }
+  ],
+  "SimpleGetInfo": {
+    "Title": "You don’t have enough gas",
+    "RewardedAdResult": {
+        "Name": "Gasoline",
+        "Amount": 1
+    },
+    "ConsumablesResult": {
+        "Name": "Gasoline",
+        "Amount": 3
+    },
+    "ConsumablesRequired": {
+        "Name": "Hard_Crystal",
+        "Amount": 30
+    }
+  }
+}

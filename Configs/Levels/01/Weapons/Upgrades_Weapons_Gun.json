@@ -1,0 +1,65 @@
+{
+  "RotationSpeed": 15,
+  "Upgrade": {
+    "Levels": [
+      {
+        "SearchRadius": 9.0,
+        "AttackRadius": 7,
+        "Damage": 15,
+        "KnockbackPower": 0.09,
+        "KnockbackDuration": 0.1
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 40
+          },
+          {
+            "Name": "Gun_Card",
+            "Amount": 4
+          }
+        ],
+        "SearchRadius": 9.0,
+        "AttackRadius": 7,
+        "Damage": 18,
+        "KnockbackPower": 0.09,
+        "KnockbackDuration": 0.1
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 50
+          },
+          {
+            "Name": "Gun_Card",
+            "Amount": 5
+          }
+        ],
+        "SearchRadius": 9.0,
+        "AttackRadius": 7,
+        "Damage": 20,
+        "KnockbackPower": 0.09,
+        "KnockbackDuration": 0.1
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 60
+          },
+          {
+            "Name": "Gun_Card",
+            "Amount": 6
+          }
+        ],
+        "SearchRadius": 9.0,
+        "AttackRadius": 7,
+        "Damage": 25,
+        "KnockbackPower": 0.09,
+        "KnockbackDuration": 0.1
+      }
+    ]
+  }
+}

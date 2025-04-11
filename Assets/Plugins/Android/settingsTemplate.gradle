@@ -1,0 +1,57 @@
+pluginManagement {
+    repositories {
+        **ARTIFACTORYREPOSITORY**
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+include ':launcher', ':unityLibrary'
+**INCLUDES**
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        **ARTIFACTORYREPOSITORY**
+        google()
+        mavenCentral()
+// Android Resolver Repos Start
+        def unityProjectPath = $/file:///**DIR_UNITYPROJECT**/$.replace("\\", "/")
+        maven {
+            url "https://s3.amazonaws.com/com.tabtale.repo/android/maven/backup" // Assets/Editor/TTPDependencies.xml:15
+        }
+        maven {
+            url "https://s3.amazonaws.com/com.tabtale.repo/android/maven/ttplugins" // Assets/Editor/TTPDependencies.xml:15
+        }
+        maven {
+            url "https://s3.amazonaws.com/com.tabtale.repo/android/maven/thirdparty" // Assets/Editor/TTPDependencies.xml:15
+        }
+        maven {
+            url "https://s3.amazonaws.com/moat-sdk-builds" // Assets/Editor/TTPDependencies.xml:15
+        }
+        maven {
+            url "https://maven.ogury.co" // Assets/Editor/TTPDependencies.xml:15
+        }
+        maven {
+            url "https://android-sdk.is.com" // Assets/Editor/TTPDependencies.xml:15
+        }
+        maven {
+            url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea" // Assets/Editor/TTPDependencies.xml:15
+        }
+        maven {
+            url "https://jitpack.io" // Assets/Editor/TTPDependencies.xml:15
+        }
+        maven {
+            url "https://mvnrepository.com/artifact/com.inmobi.monetization/inmobi-ads" // Assets/Editor/TTPDependencies.xml:15
+        }
+        maven {
+            url "https://artifact.bytedance.com/repository/pangle" // Assets/Editor/TTPDependencies.xml:15
+        }
+        mavenLocal()
+// Android Resolver Repos End
+        flatDir {
+            dirs "${project(':unityLibrary').projectDir}/libs"
+        }
+    }
+}

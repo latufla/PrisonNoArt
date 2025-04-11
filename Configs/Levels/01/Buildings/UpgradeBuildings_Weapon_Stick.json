@@ -1,0 +1,10 @@
+{
+  "UnlockDuration": 6.0,
+  "UnlockPrice": [
+    {
+      "Name": "Wood",
+      "Amount": 6
+    }
+  ],
+  "SpeedUpHide": true
+}

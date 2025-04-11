@@ -1,0 +1,17 @@
+{
+  "CraftDuration": 1800.0,
+  "CraftPrice": [
+    {
+      "Name": "BoatMotor_Component_02_00",
+      "Amount": 1
+    },
+	{
+      "Name": "BoatMotor_Component_02_01",
+      "Amount": 1
+    }
+  ],
+  "CraftResult": {
+    "Name": "Boat_Engine",
+    "Amount": 1
+  }
+}

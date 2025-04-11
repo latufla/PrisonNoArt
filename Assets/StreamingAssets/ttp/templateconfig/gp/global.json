@@ -1,0 +1,16 @@
+{
+  "store": "google",
+  "gameEngine": "unity",
+  "audienceModeBuildOnly": "non-children",
+  "orientation": "portrait",
+  "geoLocationServer": "ttplugins.ttpsdk.info",
+  "bundleId": "com.prison.survival.story",
+  "testMode": false,
+  "askForTracking": true,
+  "isAdMob": true,
+  "appBuildConfig": {
+    "admob": {
+      "application": "ca-app-pub-7137699734922870~3345618213"
+    }
+  }
+}

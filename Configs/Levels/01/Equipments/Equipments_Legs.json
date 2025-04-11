@@ -1,0 +1,61 @@
+{
+  "Upgrade": {
+    "Levels": [
+      {
+		"Health": 10
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 15
+          },
+          {
+            "Name": "Legs_Card",
+            "Amount": 3
+          }
+        ],
+		"Health": 10
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 20
+          },
+          {
+            "Name": "Legs_Card",
+            "Amount": 4
+          }
+        ],
+		"Health": 10
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 30
+          },
+          {
+            "Name": "Legs_Card",
+            "Amount": 4
+          }
+        ],
+    "Health": 10
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 40
+          },
+          {
+            "Name": "Legs_Card",
+            "Amount": 5
+          }
+        ],
+		"Health": 10
+      }
+    ]
+  }
+}

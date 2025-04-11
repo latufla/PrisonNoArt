@@ -1,0 +1,61 @@
+{
+  "Upgrade": {
+    "Levels": [
+      {
+		"Health": 5
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 15
+          },
+          {
+            "Name": "Backpack_Card",
+            "Amount": 1
+          }
+        ],
+		"Health": 10
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 20
+          },
+          {
+            "Name": "Backpack_Card",
+            "Amount": 4
+          }
+        ],
+		"Health": 15
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 30
+          },
+          {
+            "Name": "Backpack_Card",
+            "Amount": 4
+          }
+        ],
+    "Health": 20
+      },
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 40
+          },
+          {
+            "Name": "Backpack_Card",
+            "Amount": 5
+          }
+        ],
+		"Health": 5
+      }
+    ]
+  }
+}

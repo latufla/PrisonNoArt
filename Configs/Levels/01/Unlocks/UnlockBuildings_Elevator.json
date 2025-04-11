@@ -1,0 +1,9 @@
+{
+  "UnlockDuration": 3.0,
+  "UnlockPrice": [
+    {
+      "Name": "Wood",
+      "Amount": 1
+    }
+  ]
+}

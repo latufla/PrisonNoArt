@@ -1,0 +1,749 @@
+{
+  "Upgrade": {
+    "Levels": [
+      {
+        "Price": [
+          {
+            "Name": "Money",
+            "Amount": 0
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Damage": 1,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2
+      },
+      {
+        "Price": [
+          {
+            "Name": "Wood",
+            "Amount": 8
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 10,
+        "Damage": 2,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2
+      },
+      {
+        "Price": [
+          {
+            "Name": "Wood",
+            "Amount": 12
+          },
+          {
+            "Name": "Cardboard",
+            "Amount": 6
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 15,
+        "Damage": 3,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Wood",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Cardboard",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Wood",
+            "Amount": 6
+          },
+          {
+            "Name": "Cardboard",
+            "Amount": 3
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Rubber",
+            "Amount": 12
+          },
+          {
+            "Name": "Wires",
+            "Amount": 5
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 60,
+        "Damage": 4,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Rubber",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Wires",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Rubber",
+            "Amount": 6
+          },
+          {
+            "Name": "Wires",
+            "Amount": 3
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Rubber",
+            "Amount": 15
+          },
+          {
+            "Name": "Wood",
+            "Amount": 20
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 120,
+        "Damage": 5,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Rubber",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Wood",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Rubber",
+            "Amount": 8
+          },
+          {
+            "Name": "Wood",
+            "Amount": 10
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Metal",
+            "Amount": 12
+          },
+          {
+            "Name": "Rubber",
+            "Amount": 20
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 240,
+        "Damage": 5.5,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Metal",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Rubber",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Metal",
+            "Amount": 6
+          },
+          {
+            "Name": "Rubber",
+            "Amount": 10
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Wood",
+            "Amount": 25
+          },
+          {
+            "Name": "Metal",
+            "Amount": 15
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 480,
+        "Damage": 6,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Wood",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Metal",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Wood",
+            "Amount": 13
+          },
+          {
+            "Name": "Metal",
+            "Amount": 8
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Wood",
+            "Amount": 30
+          },
+          {
+            "Name": "Wires",
+            "Amount": 15
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 900,
+        "Damage": 6.5,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Wood",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Wires",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Wood",
+            "Amount": 15
+          },
+          {
+            "Name": "Wires",
+            "Amount": 8
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Skin",
+            "Amount": 20
+          },
+          {
+            "Name": "Wires",
+            "Amount": 20
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 900,
+        "Damage": 7,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Skin",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Wires",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Skin",
+            "Amount": 10
+          },
+          {
+            "Name": "Wires",
+            "Amount": 10
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Wood",
+            "Amount": 30
+          },
+          {
+            "Name": "Can",
+            "Amount": 15
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 900,
+        "Damage": 7.5,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Wood",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Can",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Wood",
+            "Amount": 15
+          },
+          {
+            "Name": "Can",
+            "Amount": 8
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Metal",
+            "Amount": 40
+          },
+          {
+            "Name": "Stone",
+            "Amount": 25
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 900,
+        "Damage": 8,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Metal",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Stone",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Metal",
+            "Amount": 20
+          },
+          {
+            "Name": "Stone",
+            "Amount": 13
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Can",
+            "Amount": 20
+          },
+          {
+            "Name": "Wood_Plank",
+            "Amount": 10
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 900,
+        "Damage": 8.2,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Can",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Wood_Plank",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 3
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Can",
+            "Amount": 10
+          },
+          {
+            "Name": "Wood_Plank",
+            "Amount": 5
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Plastic",
+            "Amount": 20
+          },
+          {
+            "Name": "Metal_Plank",
+            "Amount": 5
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 1800,
+        "Damage": 8.5,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Plastic",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Metal_Plank",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 4
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Plastic",
+            "Amount": 10
+          },
+          {
+            "Name": "Metal_Plank",
+            "Amount": 3
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Glass",
+            "Amount": 20
+          },
+          {
+            "Name": "Metal",
+            "Amount": 50
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 1800,
+        "Damage": 8.7,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Glass",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Metal",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Glass",
+            "Amount": 10
+          },
+          {
+            "Name": "Metal",
+            "Amount": 25
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Wood_Plank",
+            "Amount": 15
+          },
+          {
+            "Name": "Plastic",
+            "Amount": 30
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 1800,
+        "Damage": 9,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Wood_Plank",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 3
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Plastic",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 2
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Wood_Plank",
+            "Amount": 8
+          },
+          {
+            "Name": "Plastic",
+            "Amount": 15
+          }
+        ]
+      },
+      {
+        "Price": [
+          {
+            "Name": "Wood",
+            "Amount": 60
+          },
+          {
+            "Name": "Metal_Plank",
+            "Amount": 10
+          }
+        ],
+        "SearchRadius": 3.6,
+        "AttackRadius": 3.6,
+        "AttackAngle": 120,
+        "Duration": 1800,
+        "Damage": 9.5,
+        "ShakePower": 0.2,
+        "ShakeDuration": 0.2,
+        "ConsumablePrices": [
+          {
+          "Consumable": {
+            "Name": "Wood",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 1
+          }
+        },
+          {
+          "Consumable": {
+            "Name": "Metal_Plank",
+            "Amount": 1
+          },
+          "Price": {
+            "Name": "Hard_Crystal",
+            "Amount": 4
+          }
+        }
+      ],
+        "RewardedAdConsumablesAmounts": [
+          {
+            "Name": "Wood",
+            "Amount": 30
+          },
+          {
+            "Name": "Metal_Plank",
+            "Amount": 5
+          }
+        ]
+      }
+    ]
+  }
+}

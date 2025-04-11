@@ -1,0 +1,10 @@
+{
+  "Health": 100,
+  "WeaponLevel": 11,
+  "Rewards": [
+    {
+      "Name": "Wood",
+      "Amount": 10
+    }
+  ]
+}

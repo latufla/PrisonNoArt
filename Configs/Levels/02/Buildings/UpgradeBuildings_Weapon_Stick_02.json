@@ -1,0 +1,9 @@
+{
+  "UnlockDuration": 30.0,
+  "UnlockPrice": [
+    {
+      "Name": "Hardwood",
+      "Amount": 6
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Health": 90,
+  "WeaponLevel": 20,
+  "Rewards": [
+    {
+      "Name": "Titan",
+      "Amount": 4
+    }
+  ]
+}

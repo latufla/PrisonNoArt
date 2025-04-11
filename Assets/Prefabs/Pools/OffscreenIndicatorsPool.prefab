@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5297629253353239604
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8399600704795465676}
+  - component: {fileID: 5871628960153049707}
+  m_Layer: 0
+  m_Name: OffscreenIndicatorsPool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8399600704795465676
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5297629253353239604}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5871628960153049707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5297629253353239604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede899342b44485f9cb96f9f62c16bcf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bindings:
+  - _key: {fileID: 11400000, guid: 1f040520a840103478af779a4d4b9dd7, type: 2}
+    _prefab: {fileID: 2045183420178883030, guid: 4a4ccb4d818ec2c45a51acbe31575d34, type: 3}
+  - _key: {fileID: 11400000, guid: bc51ded94d859d648ad50f1f84dc6b8a, type: 2}
+    _prefab: {fileID: 2045183420178883030, guid: 496982866f560c4408712cb028b3ec6a, type: 3}
+  - _key: {fileID: 11400000, guid: 708d9b36dcb8a054eb733f901868885a, type: 2}
+    _prefab: {fileID: 2045183420178883030, guid: 9857fe28db3656a45a338b1a89dc4c76, type: 3}
+  - _key: {fileID: 11400000, guid: 0826518957210004e9bcf596d6406bd2, type: 2}
+    _prefab: {fileID: 2045183420178883030, guid: 23ed77f92d275644386b07dfe862d194, type: 3}
+  - _key: {fileID: 11400000, guid: a32cdf9ccbf29c54e91ae9008235de83, type: 2}
+    _prefab: {fileID: 2045183420178883030, guid: 1bdadbaf23abd8a4196e15f414a98133, type: 3}
+  _useInstantiateOnly: 0
